@@ -53,8 +53,8 @@ Ingeniero Informático, Administrador de Sistemas y Especialista en Desarrollo d
 
 ## 🚀 Proyectos Destacados & Desarrollos Web
 
-*   📊 **Plataforma de Visualización de Datos - Peaje La Punta (IDESAN):** Desarrollo y modelado de base de datos en PostgreSQL para la visualización analítica de tránsitos y tarifas en Piedecuesta. [Ver enlace](https://peajelapunta.idesan.gov.co/browser/landing/home)
-*   🏛️ **Portal Web Institucional y Repositorios (IMCT Bucaramanga):** Creación, arquitectura web y seguridad para portales culturales, la Emisora Cultural 100.7 FM, Observatorio de Turismo e intranets de gestión documental.
+*   📊 **Plataforma de Visualización de Datos - Peaje La Punta (IDESAN):** Desarrollo y modelado de base de datos en PostgreSQL para la visualización analítica de tránsitos y tarifas en Piedecuesta.
+*   🏛️ **Portal Web Institucionales (IMCT Bucaramanga):** Creación, arquitectura web y seguridad para portales culturales, la Emisora Cultural 100.7 FM, Observatorio de Turismo e intranets de gestión documental.
 *   💼 **Emplea Plus (`www.empleaplus.com`):** Plataforma digital para la conexión de talento profesional latinoamericano con oportunidades de empleo remoto global.
 *   🎓 **Pienta:** Software interactivo de gamificación educativa para la preparación de pruebas estatales (ICFES, Saber PRO y TYT).
 *   🌐 **Portales Educativos Gubernamentales e Institucionales:** Desarrollo de sitios web para instituciones como *Unidades Técnicas de Colombia (UTC)*, *ACOLCTI*, *Contraloría Municipal de Girón*, entre otros.
