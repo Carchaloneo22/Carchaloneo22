@@ -5,6 +5,8 @@
 <div align="center">
   <h3><b>Ingeniero Informático | Especialista en Desarrollo de Software | Tecnólogo & Consultor TIC</b></h3>
   <p>🚀 Apasionado por la transformación digital, la optimización de bases de datos, el desarrollo web full-stack y la educación tecnológica.</p>
+  <p>🚀 Ceo de S3media-Sistemas y Medios Digitales ( Empresa Santandereana comprometida con el nuevo talento en Tic Desarrollo de Software 😃💻
+  Soporte Help desk🖥️ </p>
 
   <p>
     <a href="https://www.linkedin.com/in/carlos-chaparro-3b1aa726b/">
@@ -52,9 +54,12 @@ Ingeniero Informático, Administrador de Sistemas y Especialista en Desarrollo d
 
 ## 🚀 Proyectos Destacados & Desarrollos Web
 
-*   📊 **Plataforma de Visualización de Datos - Peaje La Punta (IDESAN):** Desarrollo y modelado de base de datos en PostgreSQL para la visualización analítica de tránsitos y tarifas en Piedecuesta.
+*   📊 **Plataforma de Visualización de Datos - Peaje La Punta (IDESAN):** Desarrollo y modelado de base de datos en PostgreSQL para la visualización analítica de tránsitos y tarifas en los Santos SAntander.
+  
 *   🏛️ **Portal Web Institucionales (IMCT Bucaramanga):** Creación, arquitectura web y seguridad para portales culturales, la Emisora Cultural 100.7 FM, Observatorio de Turismo e intranets de gestión documental.
+  
 *   💼 **Emplea Plus (`www.empleaplus.com`):** Plataforma digital para la conexión de talento profesional latinoamericano con oportunidades de empleo remoto global.
+  
 *   🎓 **Pienta:** Software interactivo de gamificación educativa para la preparación de pruebas estatales (ICFES, Saber PRO y TYT).
 *   🌐 **Portales Educativos Gubernamentales e Institucionales:** Desarrollo de sitios web para instituciones como *Unidades Técnicas de Colombia (UTC)*, *ACOLCTI*, *Contraloría Municipal de Girón*, entre otros.
 
@@ -71,7 +76,7 @@ Ingeniero Informático, Administrador de Sistemas y Especialista en Desarrollo d
 
 ## 📈 Experiencia Reciente
 
-*   **Alcaldía de Bucaramanga - Secretaría del Interior** (2026): Apoyo profesional en ingeniería y análisis de datos para el Observatorio de Seguridad y Convivencia Ciudadana.
+*   **Alcaldía de Bucaramanga - Secretaría del Interior** (2026): Apoyo profesional en ingeniería y análisis de datos para el Observatorio de Seguridad y Convivencia Ciudadana. 
 *   **Instituto Financiero de Santander (IDESAN)** (2025): Desarrollador de Software especializado en bases de datos PostgreSQL y plataformas de visualización de datos.
 *   **Instituto Municipal de Cultura y Turismo (IMCT)** (2023–2025): Web Master y soporte de infraestructura tecnológica y portales web institucionales.
 *   **SENA - Centro de Servicios Empresariales y Turísticos** (2023–Actualidad): Instructor titular en el programa de *Análisis y Desarrollo de Software (ADSO)*.
