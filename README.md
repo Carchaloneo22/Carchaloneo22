@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31235724/README.md)
+
 # 👋 ¡Hola, soy Carlos Chaparro López!
 
 <div align="center">
