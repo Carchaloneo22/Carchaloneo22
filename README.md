@@ -5,7 +5,7 @@
 <div align="center">
   <h3><b>Ingeniero Informático | Especialista en Desarrollo de Software | Tecnólogo & Consultor TIC</b></h3>
   <p>🚀 Apasionado por la transformación digital, la optimización de bases de datos, el desarrollo web full-stack y la educación tecnológica.</p>
-  <p>🚀 Ceo de S3media-Sistemas y Medios Digitales ( Empresa Santandereana comprometida con el nuevo talento en Tic Desarrollo de Software 😃💻
+  <p>🤖 Ceo de S3media-Sistemas y Medios Digitales ( Empresa Santandereana comprometida con el nuevo talento en Tic Desarrollo de Software 😃💻
   Soporte Help desk🖥️ </p>
 
   <p>
@@ -54,14 +54,21 @@ Ingeniero Informático, Administrador de Sistemas y Especialista en Desarrollo d
 
 ## 🚀 Proyectos Destacados & Desarrollos Web
 
-*   📊 **Plataforma de Visualización de Datos - Peaje La Punta (IDESAN):** Desarrollo y modelado de base de datos en PostgreSQL para la visualización analítica de tránsitos y tarifas en los Santos SAntander.
+*   📊 **Plataforma de Perfilamiento para estudiantes Nexus-U: Campus Virtual Interactivo con Inteligencia Artificial para la Orientación Vocacional de la Corporación Tecnológica del Oriente Nexus-U representa una solución innovadora al problema de la desinformación vocacional en la Tecnológica del Oriente, diferenciando a la institución en el panorama de educación superior santandereana. La combinación de Unreal Engine 5 con inteligencia artificial conversacional en un campus virtual constituye una herramienta de orientación única en el departamento, capaz de atender aspirantes de manera autónoma, reducir costos operativos de admisiones y proyectar una imagen de liderazgo en innovación educativa digital
   
-*   🏛️ **Portal Web Institucionales (IMCT Bucaramanga):** Creación, arquitectura web y seguridad para portales culturales, la Emisora Cultural 100.7 FM, Observatorio de Turismo e intranets de gestión documental.
+*   🏛️ **Portal Web Institucionales (IMCT Bucaramanga):** Creación, arquitectura web y seguridad para portales Institucionales, la Emisora Cultural 100.7 FM, Observatorio de Turismo e intranets de gestión documental. de acuerdo a la normatividad ITA del gobierno nacional
+*   🛜  <a href="https://imct.gov.co/">
+* 
   
-*   💼 **Emplea Plus (`www.empleaplus.com`):** Plataforma digital para la conexión de talento profesional latinoamericano con oportunidades de empleo remoto global.
+*   💼 **Emplea Plus:
+*   ** Plataforma digital para la conexión de talento profesional latinoamericano con oportunidades de empleo remoto global.
+*   🛜  <a href="[https://imct.gov.co/](https://www.empleaplus.com/)">
   
 *   🎓 **Pienta:** Software interactivo de gamificación educativa para la preparación de pruebas estatales (ICFES, Saber PRO y TYT).
 *   🌐 **Portales Educativos Gubernamentales e Institucionales:** Desarrollo de sitios web para instituciones como *Unidades Técnicas de Colombia (UTC)*, *ACOLCTI*, *Contraloría Municipal de Girón*, entre otros.
+
+*   
+*   
 
 ---
 
