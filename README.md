@@ -1,46 +1,45 @@
-## Hi there 👋
-
+[README.md](https://github.com/user-attachments/files/31235724/README.md)
 # 👋 ¡Hola, soy Carlos Chaparro López!
 
 <div align="center">
-  <h3><b>Ingeniero Informático | Especialista en Desarrollo de Software | Tecnólogo & Consultor TIC</b></h3>
+  <h3><b>Ingeniero Informático | Especialista en Desarrollo de Software | Consultor TIC</b></h3>
   <p>🚀 Apasionado por la transformación digital, la optimización de bases de datos, el desarrollo web full-stack y la educación tecnológica.</p>
-  <p>🤖 Ceo de S3media-Sistemas y Medios Digitales ( Empresa Santandereana comprometida con el nuevo talento en Tic Desarrollo de Software 😃💻
-  Soporte Help desk🖥️ </p>
+  <p>💼 CEO de <a href="https://www.s3media.com.co">S3media</a>: Empresa santandereana comprometida con el talento TIC, desarrollo de software y soporte help desk.</p>
 
   <p>
     <a href="https://www.linkedin.com/in/carlos-chaparro-3b1aa726b/">
-      <img src="https://img.shields.io/badge/LinkedIn-Carlos%20Chaparro-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-Carlos%20Chaparro-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="mailto:Carchalo22@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Carchalo22%40gmail.com-red?style=flat-square&logo=gmail" alt="Email">
+      <img src="https://img.shields.io/badge/Email-Carchalo22%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
     </a>
-    <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Bucaramanga%2C%20Colombia-green?style=flat-square&logo=openstreetmap" alt="Ubicación">
+    <a href="https://linktr.ee/Carloschaparro">
+      <img src="https://img.shields.io/badge/Linktree-Carlos%20Chaparro-green?style=for-the-badge&logo=linktree" alt="Linktree">
+    </a>
   </p>
 </div>
 
 ---
 
-## 🛠️ Stack Tecnológico & Habilidades
+## 🛠️ Stack Tecnológico
 
 <div align="center">
 
 ### **Frontend & Web**
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ### **Backend & Lenguajes**
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### **Bases de Datos e Infraestructura**
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
 
@@ -48,45 +47,35 @@
 
 ## 👨‍💻 Perfil Profesional
 
-Ingeniero Informático, Administrador de Sistemas y Especialista en Desarrollo de Software con amplia trayectoria en el diseño, implementación y administración de sistemas de información de mediana y gran complejidad. Experiencia destacada en el sector público y privado liderando proyectos de transformación digital, analítica de datos, desarrollo de portales web institucionales y docencia tecnológica en instituciones como el **SENA**, **IDESAN**, **Alcaldía de Bucaramanga** e **IMCT**.
+Ingeniero Informático y Especialista en Desarrollo de Software con amplia trayectoria en el diseño, implementación y administración de sistemas de alta complejidad. Lidero proyectos de transformación digital, analítica de datos y desarrollo web institucional. Mi labor combina la consultoría estratégica con la docencia tecnológica en instituciones de prestigio como el **SENA**, **IDESAN** y la **Alcaldía de Bucaramanga**.
 
 ---
 
-## 🚀 Proyectos Destacados & Desarrollos Web
+## 🚀 Proyectos Destacados
 
-*   📊 **Plataforma de Perfilamiento para estudiantes Nexus-U: Campus Virtual Interactivo con Inteligencia Artificial para la Orientación Vocacional de la Corporación Tecnológica del Oriente Nexus-U representa una solución innovadora al problema de la desinformación vocacional en la Tecnológica del Oriente, diferenciando a la institución en el panorama de educación superior santandereana. La combinación de Unreal Engine 5 con inteligencia artificial conversacional en un campus virtual constituye una herramienta de orientación única en el departamento, capaz de atender aspirantes de manera autónoma, reducir costos operativos de admisiones y proyectar una imagen de liderazgo en innovación educativa digital
-  
-*   🏛️ **Portal Web Institucionales (IMCT Bucaramanga):** Creación, arquitectura web y seguridad para portales Institucionales, la Emisora Cultural 100.7 FM, Observatorio de Turismo e intranets de gestión documental. de acuerdo a la normatividad ITA del gobierno nacional
-*   🛜  <a href="https://imct.gov.co/">
-* 
-  
-*   💼 **Emplea Plus:
-*   ** Plataforma digital para la conexión de talento profesional latinoamericano con oportunidades de empleo remoto global.
-*   🛜  <a href="[https://imct.gov.co/](https://www.empleaplus.com/)">
-  
-*   🎓 **Pienta:** Software interactivo de gamificación educativa para la preparación de pruebas estatales (ICFES, Saber PRO y TYT).
-*   🌐 **Portales Educativos Gubernamentales e Institucionales:** Desarrollo de sitios web para instituciones como *Unidades Técnicas de Colombia (UTC)*, *ACOLCTI*, *Contraloría Municipal de Girón*, entre otros.
+*   📊 **Nexus-U (Plataforma de Perfilamiento):** Campus virtual con IA para orientación vocacional, integrando Unreal Engine 5 para una experiencia de usuario única en el departamento.
+*   🏛️ **Portales Institucionales (IMCT Bucaramanga):** Desarrollo de arquitectura web, seguridad y gestión documental para entidades como el <a href="https://imct.gov.co/">IMCT</a> y la Emisora Cultural 100.7 FM.
+*   💼 **Emplea Plus:** Plataforma para conectar talento latinoamericano con oportunidades de empleo remoto global. [Visitar sitio](https://www.empleaplus.com/)
+*   🎓 **Pienta:** Software de gamificación para la preparación de pruebas estatales (ICFES, Saber PRO y TYT).
+*   🌐 **Desarrollo Gubernamental:** Portales para la Contraloría Municipal de Girón, UTC y ACOLCTI.
 
-*   
-*   
+---
+
+## 📈 Experiencia Profesional Reciente
+
+*   **SENA:** Instructor Titular en el programa de *Análisis y Desarrollo de Software (ADSO)*.
+*   **Alcaldía de Bucaramanga:** Apoyo en ingeniería y análisis de datos para el Observatorio de Seguridad y Convivencia Ciudadana.
+*   **IDESAN:** Desarrollador de Software enfocado en PostgreSQL y visualización de datos.
+*   **IMCT:** Web Master y soporte de infraestructura tecnológica.
 
 ---
 
 ## 📜 Formación Académica
 
-*   🎓 **Ingeniero Especialista en Desarrollo de Software** — Corporación Universitaria Tecnológica del Oriente.
-*   🎓 **Ingeniero Informático** — Universidad Pontificia Bolivariana.
-*   🎓 **Tecnólogo en Diseño y Administración de Sistemas** — Unidades Tecnológicas de Santander.
-*   💻 **Técnico Laboral por Competencias en Sistemas** — Multitech / Multicómputo (Avalado por el SENA).
-
----
-
-## 📈 Experiencia Reciente
-
-*   **Alcaldía de Bucaramanga - Secretaría del Interior** (2026): Apoyo profesional en ingeniería y análisis de datos para el Observatorio de Seguridad y Convivencia Ciudadana. 
-*   **Instituto Financiero de Santander (IDESAN)** (2025): Desarrollador de Software especializado en bases de datos PostgreSQL y plataformas de visualización de datos.
-*   **Instituto Municipal de Cultura y Turismo (IMCT)** (2023–2025): Web Master y soporte de infraestructura tecnológica y portales web institucionales.
-*   **SENA - Centro de Servicios Empresariales y Turísticos** (2023–Actualidad): Instructor titular en el programa de *Análisis y Desarrollo de Software (ADSO)*.
+*   **Ingeniero Especialista en Desarrollo de Software** — Corporación Universitaria Tecnológica del Oriente.
+*   **Ingeniero Informático** — Universidad Pontificia Bolivariana.
+*   **Tecnólogo en Diseño y Administración de Sistemas** — Unidades Tecnológicas de Santander.
+*   **Técnico Laboral en Sistemas** — Multitech (Avalado por el SENA).
 
 ---
 
