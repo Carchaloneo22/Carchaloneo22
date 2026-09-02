@@ -47,17 +47,18 @@
 
 ## 👨‍💻 Perfil Profesional
 
-Ingeniero Informático y Especialista en Desarrollo de Software con amplia trayectoria en el diseño, implementación y administración de sistemas de alta complejidad. Lidero proyectos de transformación digital, analítica de datos y desarrollo web institucional. Mi labor combina la consultoría estratégica con la docencia tecnológica en instituciones de prestigio como el **SENA**, **IDESAN** y la **Alcaldía de Bucaramanga**.
+Ingeniero Informático y Especialista en Desarrollo de Software con amplia trayectoria en el diseño, implementación y administración de sistemas de alta complejidad. Lidero proyectos de transformación digital, analítica de datos y desarrollo web institucional. Mi labor combina la consultoría estratégica con la docencia tecnológica en instituciones de prestigio como el **SENA**, **IMCT** , **Alcaldía de Lebrija**y la **Alcaldía de Bucaramanga**.
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-*   📊 **Nexus-U (Plataforma de Perfilamiento):** Campus virtual con IA para orientación vocacional, integrando Unreal Engine 5 para una experiencia de usuario única en el departamento.
-*   🏛️ **Portales Institucionales (IMCT Bucaramanga):** Desarrollo de arquitectura web, seguridad y gestión documental para entidades como el <a href="https://imct.gov.co/">IMCT</a> y la Emisora Cultural 100.7 FM.
+*   📊 **Nexus-U (Plataforma de Perfilamiento):** Campus virtual con IA para orientación vocacional, integrando Unreal Engine 5 para una experiencia de usuario única en el departamento.(Corporaciòn Tecnologica del Oriente)
+*   🏛️ **Portales Institucionales (IMCT Bucaramanga):** Desarrollo de arquitectura web, seguridad y gestión documental para entidades como el <a href="https://imct.gov.co/">IMCT</a> y la Emisora Cultural 100.7 FM. y sus micro sitios.
 *   💼 **Emplea Plus:** Plataforma para conectar talento latinoamericano con oportunidades de empleo remoto global. [Visitar sitio](https://www.empleaplus.com/)
-*   🎓 **Pienta:** Software de gamificación para la preparación de pruebas estatales (ICFES, Saber PRO y TYT).
-*   🌐 **Desarrollo Gubernamental:** Portales para la Contraloría Municipal de Girón, UTC y ACOLCTI.
+*   🎓 **Sistema Pos SoftBaguer:** Software (Point of Sale o punto de venta) Ideal para pymes de moda, ya que permite facturar rápido en mostrador y mantiene el stock actualizado en la nube
+*   🌐 **Desarrollos Gubernamental: ** Portales para la Contraloría Municipal de Girón, Concejo de Girón y ACOLCTI.
+*   📒 **Desarrollos Web Educativos:** Portales para la Utc del sur , Uto, Multicomputo, Utc general , Andap.
 
 ---
 
@@ -65,7 +66,6 @@ Ingeniero Informático y Especialista en Desarrollo de Software con amplia traye
 
 *   **SENA:** Instructor Titular en el programa de *Análisis y Desarrollo de Software (ADSO)*.
 *   **Alcaldía de Bucaramanga:** Apoyo en ingeniería y análisis de datos para el Observatorio de Seguridad y Convivencia Ciudadana.
-*   **IDESAN:** Desarrollador de Software enfocado en PostgreSQL y visualización de datos.
 *   **IMCT:** Web Master y soporte de infraestructura tecnológica.
 
 ---
