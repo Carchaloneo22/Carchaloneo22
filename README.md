@@ -58,7 +58,14 @@ Ingeniero Informático y Especialista en Desarrollo de Software con amplia traye
 *   💼 **Emplea Plus:** Plataforma para conectar talento latinoamericano con oportunidades de empleo remoto global. [Visitar sitio](https://www.empleaplus.com/)
 *   🎓 **Sistema Pos SoftBaguer:** Software (Point of Sale o punto de venta) Ideal para pymes de moda, ya que permite facturar rápido en mostrador y mantiene el stock actualizado en la nube
 *   🌐 **Desarrollos Web Gubernamental: ** Desarrollo web aplicando dominio en WordPress y desarrollo de sitios web  aplicando Html, Css ,Js semántico  de los sitios de Contraloría del municipio de Girón <a href="https://www.contraloriadegiron.gov.co/">Visitar sitio</a>, Sitio Web Concejo municipal de Girón <a href="https://www.concejogiron-santander.gov.co/">Visitar el sitio </a>,  Asociación Nacional de Investigadores Criminalísticos del Cuerpo Técnico de Investigación (CTI) de Colombia. <a href="https://www.acolcti.com/">visita el sitio.
-*   📒 **Desarrollos Web Educativos:** Portales para la Utc del sur , Uto, Multicomputo, Utc general , Andap.
+
+  
+*   📒 **Desarrollos Web Educativos:** Desarrollos web para el sector de educación para el trabajo, tales como:
+*   Andap (Academia Nacional de Aprendizaje) <a href="https://andap.edu.co/">Andap</a>,
+*   UTO   (Unidades Técnicas  del Oriente)   <a href="https://uto.edu.co/">Uto</a>,
+*   UTC del sur (Unidades Técnicas de Colombia-sur ) <a href="https://www.utcdelsur.edu.co/">UTC del Sur</a>,
+*   UTC General (Unidades Técnicas de Colombia) <a href="https://utc.edu.co/">UTC</a>
+
 
 ---
 
