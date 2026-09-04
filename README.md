@@ -54,7 +54,7 @@ Ingeniero Informático y Especialista en Desarrollo de Software con amplia traye
 ## 🚀 Proyectos Destacados
 
 *   📊 **Nexus-U (Plataforma de Perfilamiento):** Campus virtual con IA para orientación vocacional, integrando Unreal Engine 5 para una experiencia de usuario única en el departamento.(Corporaciòn Tecnologica del Oriente)
-*   🏛️ **Portales Institucionales (IMCT Bucaramanga):** Desarrollo de arquitectura web, seguridad y gestión documental para entidades como el <a href="https://imct.gov.co/">IMCT</a> y la Emisora Cultural 100.7 FM. y sus micro sitios.
+*   🏛️ **Portales Institucionales (IMCT Bucaramanga):** Desarrollo de arquitectura web, seguridad y gestión documental para entidades como el <a href="https://imct.gov.co/">IMCT</a> sus diferentes micro sitios de trabajo y desarrollador de la web de <a href="https://www.emisoracultural.gov.co/">La cultural Fm </a>
 *   💼 **Emplea Plus:** Plataforma para conectar talento latinoamericano con oportunidades de empleo remoto global. [Visitar sitio](https://www.empleaplus.com/)
 *   🎓 **Sistema Pos SoftBaguer:** Software (Point of Sale o punto de venta) Ideal para pymes de moda, ya que permite facturar rápido en mostrador y mantiene el stock actualizado en la nube
 *   🌐 **Desarrollos Gubernamental: ** Portales para la Contraloría Municipal de Girón, Concejo de Girón y ACOLCTI.
