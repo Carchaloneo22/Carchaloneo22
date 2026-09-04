@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Chaparro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-chaparro-3b1aa726b/)
 [![Email](https://img.shields.io/badge/Email-Carchalo22%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Carchalo22@gmail.com)
 [![Linktree](https://img.shields.io/badge/Linktree-Carlos_Chaparro-43E660?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/Carloschaparro)
-<a href="https://competencias.fundacion-nucleodigital.org/" target="_blank"><img src="Captura de pantalla 2026-09-04 112719.png" alt="Núcleo Digital" height="28" style="vertical-align: middle;" /></a>
+[![Núcleo Digital]<a href="https://competencias.fundacion-nucleodigital.org/" target="_blank"><img src="Captura de pantalla 2026-09-04 112719.png" alt="Núcleo Digital" height="28" style="vertical-align: middle;" /></a>
 
 </div>
 
