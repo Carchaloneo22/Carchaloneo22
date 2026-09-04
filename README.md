@@ -53,8 +53,8 @@ Mi labor combina la consultoría estratégica con la docencia tecnológica en in
   <br>
   <ul>
     <li>📊 <b>Nexus-U (Plataforma de Perfilamiento):</b> Campus virtual con IA para orientación vocacional, integrando Unreal Engine 5 para una experiencia de usuario única. <i>(Corporación Tecnológica del Oriente)</i></li>
-    <li>💼 <b>Emplea Plus:</b> Plataforma para conectar talento latinoamericano con oportunidades de empleo remoto global. <a href="https://www.empleaplus.com/">[Visitar sitio]</a></li>
-    <li>🎓 <b>Sistema POS SoftBaguer:</b> Software de Punto de Venta ideal para PYMEs de moda, permitiendo facturación rápida e inventario sincronizado en la nube.</li>
+    <li>🧑‍💻 <b>Emplea Plus:</b> Plataforma para conectar talento latinoamericano con oportunidades de empleo remoto global. <a href="https://www.empleaplus.com/">[Visitar sitio]</a></li>
+    <li>📑 <b>Sistema POS SoftBaguer:</b> Software de Punto de Venta ideal para PYMEs de moda, permitiendo facturación rápida e inventario sincronizado en la nube.</li>
   </ul>
 </details>
 
@@ -63,9 +63,9 @@ Mi labor combina la consultoría estratégica con la docencia tecnológica en in
   <br>
   <ul>
     <li>🏛️ <b>Web Master — IMCT Bucaramanga:</b> Arquitectura web, seguridad y gestión documental para el <a href="https://imct.gov.co/">IMCT</a> y la emisora <a href="https://www.emisoracultural.gov.co/">La Cultural FM</a>.</li>
-    <li>📌 <b>Contraloría Municipal de Girón:</b> Sitio web institucional en WordPress cumpliendo normativas de transparencia y Gobierno Digital. <a href="https://www.contraloriadegiron.gov.co/">[Visitar sitio]</a></li>
-    <li>📌 <b>Concejo Municipal de Girón:</b> Portal web personalizado (HTML/CSS/JS semántico) accesible y optimizado para consulta pública de acuerdos y proyectos. <a href="https://www.concejogiron-santander.gov.co/">[Visitar sitio]</a></li>
-    <li>📌 <b>ACOLCTI:</b> Portal institucional de la Asociación Nacional de Servidores y Ex Servidores del CTI. <a href="https://www.acolcti.com/">[Visitar sitio]</a></li>
+    <li>🏣 <b>Contraloría Municipal de Girón:</b> Sitio web institucional en WordPress cumpliendo normativas de transparencia y Gobierno Digital. <a href="https://www.contraloriadegiron.gov.co/">[Visitar sitio]</a></li>
+    <li>🗳️ <b>Concejo Municipal de Girón:</b> Portal web personalizado (HTML/CSS/JS semántico) accesible y optimizado para consulta pública de acuerdos y proyectos. <a href="https://www.concejogiron-santander.gov.co/">[Visitar sitio]</a></li>
+    <li>🔎 <b>ACOLCTI:</b> Portal institucional de la Asociación Nacional de Servidores y Ex Servidores del CTI. <a href="https://www.acolcti.com/">[Visitar sitio]</a></li>
   </ul>
 </details>
 
@@ -73,10 +73,10 @@ Mi labor combina la consultoría estratégica con la docencia tecnológica en in
   <summary><b>📒 Desarrollos Web Educativos</b></summary>
   <br>
   <ul>
-    <li>🏫 <b>ANDAP</b> (Academia Nacional de Aprendizaje): <a href="https://andap.edu.co/">andap.edu.co</a></li>
-    <li>🏫 <b>UTO</b> (Unidades Técnicas del Oriente): <a href="https://uto.edu.co/">uto.edu.co</a></li>
-    <li>🏫 <b>UTC del Sur</b> (Unidades Técnicas de Colombia - Sur): <a href="https://www.utcdelsur.edu.co/">utcdelsur.edu.co</a></li>
-    <li>🏫 <b>UTC General</b> (Unidades Técnicas de Colombia): <a href="https://utc.edu.co/">utc.edu.co</a></li>
+    <li>👨🏻‍🏫 <b>ANDAP</b> (Academia Nacional de Aprendizaje): <a href="https://andap.edu.co/">andap.edu.co</a></li>
+    <li>👨🏻‍🏫 <b>UTO</b> (Unidades Técnicas del Oriente): <a href="https://uto.edu.co/">uto.edu.co</a></li>
+    <li>👨🏻‍🏫 <b>UTC del Sur</b> (Unidades Técnicas de Colombia - Sur): <a href="https://www.utcdelsur.edu.co/">utcdelsur.edu.co</a></li>
+    <li>👨🏻‍🏫 <b>UTC General</b> (Unidades Técnicas de Colombia): <a href="https://utc.edu.co/">utc.edu.co</a></li>
   </ul>
 </details>
 
