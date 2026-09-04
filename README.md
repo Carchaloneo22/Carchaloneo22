@@ -5,7 +5,7 @@
 
 🚀 *Apasionado por la transformación digital, la optimización de bases de datos, el desarrollo web full-stack y la educación tecnológica.*
 
-💼 **CEO de [S3media](https://www.s3media.com.co)** — *Empresa santandereana comprometida con el talento TIC, desarrollo de software y soporte help desk.*
+🖥️ **CEO de [S3media](https://www.s3media.com.co)** — *Empresa santandereana comprometida con el talento TIC, desarrollo de software y soporte help desk.*
 
 ---
 
