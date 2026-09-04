@@ -71,7 +71,7 @@ Dominio: <a href="https://www.concejogiron-santander.gov.co/">Concejo Municipal 
 Construcción del sitio web institucional mediante desarrollo personalizado con HTML, CSS y JavaScript semántico, cumpliendo los estándares W3C y asegurando rendimiento, accesibilidad y compatibilidad entre navegadores. El sitio albergará la información sobre estructura corporativa, sesiones, acuerdos, proyectos, integrantes y normativa del Concejo, con una arquitectura ordenada que facilita la consulta pública y el cumplimiento de los principios de transparencia, participación y publicidad de la gestión municipal.
 
 📌 Sitio Web — Asociación Nacional de Servidores y Ex Servidores del Cuerpo Técnico de Investigación (ACOLCTI)
-Dominio:  <a href="[https://www.concejogiron-santander.gov.co/](https://www.acolcti.com/)">ACOLCTI </a>
+Dominio:  <a href="https://www.acolcti.com/">ACOLCTI </a>
 Desarrollo del portal web institucional mediante HTML, CSS y JavaScript semántico, garantizando un código limpio, optimizado y fácil de mantener. El sitio presenta la identidad, misión, historia, servicios, convenios y actividades de formación de la Asociación, incluyendo su Centro de Altos Estudios. Se prioriza una navegación intuitiva, visibilidad de los beneficios para los asociados, canales de contacto y una experiencia de usuario optimizada para todo tipo de dispositivos, reflejando los valores institucionales: fraternidad, solidaridad, altruismo y equidad.
 
   
