@@ -54,10 +54,10 @@ Ingeniero Informático y Especialista en Desarrollo de Software con amplia traye
 ## 🚀 Proyectos Destacados
 
 *   📊 **Nexus-U (Plataforma de Perfilamiento):** Campus virtual con IA para orientación vocacional, integrando Unreal Engine 5 para una experiencia de usuario única en el departamento.(Corporaciòn Tecnologica del Oriente)
-*   🏛️ **Portales Institucionales (IMCT Bucaramanga):** Desarrollo de arquitectura web, seguridad y gestión documental para entidades como el <a href="https://imct.gov.co/">IMCT</a> sus diferentes micro sitios de trabajo y desarrollador de la web de <a href="https://www.emisoracultural.gov.co/">La cultural Fm </a>
+*   🏛️ **Web Master (IMCT Bucaramanga):** Desarrollo de arquitectura web, seguridad y gestión documental para entidades como el <a href="https://imct.gov.co/">IMCT</a> sus diferentes micro sitios de trabajo y desarrollador de la web de <a href="https://www.emisoracultural.gov.co/">La cultural Fm </a>
 *   💼 **Emplea Plus:** Plataforma para conectar talento latinoamericano con oportunidades de empleo remoto global. [Visitar sitio](https://www.empleaplus.com/)
 *   🎓 **Sistema Pos SoftBaguer:** Software (Point of Sale o punto de venta) Ideal para pymes de moda, ya que permite facturar rápido en mostrador y mantiene el stock actualizado en la nube
-*   🌐 **Desarrollos Gubernamental: ** Portales para la Contraloría Municipal de Girón, Concejo de Girón y ACOLCTI.
+*   🌐 **Desarrollos Web Gubernamental: ** Desarrollo web aplicando dominio en WordPress y desarrollo de sitios web  aplicando Html, Css ,Js semántico  de los sitios de Contraloría del municipio de Girón <a href="https://www.contraloriadegiron.gov.co/">Visitar sitio</a>, Sitio Web Concejo municipal de Girón <a href="https://www.concejogiron-santander.gov.co/">Visitar el sitio </a>,  Asociación Nacional de Investigadores Criminalísticos del Cuerpo Técnico de Investigación (CTI) de Colombia. <a href="https://www.acolcti.com/">visita el sitio.
 *   📒 **Desarrollos Web Educativos:** Portales para la Utc del sur , Uto, Multicomputo, Utc general , Andap.
 
 ---
