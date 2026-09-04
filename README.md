@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 👋 ¡Hola! Soy Carlos Chaparro López
@@ -28,32 +27,22 @@ Mi labor combina la consultoría estratégica con la docencia tecnológica en in
 
 ## 🛠️ Stack Tecnológico
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>Frontend & Web</h3>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <h3>Backend & Lenguajes</h3>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <h3>Bases de Datos & Infra</h3>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
-    </td>
-  </tr>
-</table>
+* **Frontend & Web**
+
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,astro,tailwind" alt="Frontend Stack" /></a>
+
+* **Backend & Lenguajes**
+
+  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php,py" alt="Backend Stack" /></a>
+
+* **Bases de Datos & Automatización**
+
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases Stack" /></a>
+  <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /></a>
+
+* **Herramientas & Redes**
+
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git,github,vscode,docker,cisco" alt="Tools Stack" /></a>
 
 ---
 
