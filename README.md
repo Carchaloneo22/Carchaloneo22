@@ -56,8 +56,23 @@ Ingeniero Informático y Especialista en Desarrollo de Software con amplia traye
 *   📊 **Nexus-U (Plataforma de Perfilamiento):** Campus virtual con IA para orientación vocacional, integrando Unreal Engine 5 para una experiencia de usuario única en el departamento.(Corporaciòn Tecnologica del Oriente)
 *   🏛️ **Web Master (IMCT Bucaramanga):** Desarrollo de arquitectura web, seguridad y gestión documental para entidades como el <a href="https://imct.gov.co/">IMCT</a> sus diferentes micro sitios de trabajo y desarrollador de la web de <a href="https://www.emisoracultural.gov.co/">La cultural Fm </a>
 *   💼 **Emplea Plus:** Plataforma para conectar talento latinoamericano con oportunidades de empleo remoto global. [Visitar sitio](https://www.empleaplus.com/)
-*   🎓 **Sistema Pos SoftBaguer:** Software (Point of Sale o punto de venta) Ideal para pymes de moda, ya que permite facturar rápido en mostrador y mantiene el stock actualizado en la nube
-*   🌐 **Desarrollos Web Gubernamental: ** Desarrollo web aplicando dominio en WordPress y desarrollo de sitios web  aplicando Html, Css ,Js semántico  de los sitios de Contraloría del municipio de Girón <a href="https://www.contraloriadegiron.gov.co/">Visitar sitio</a>, Sitio Web Concejo municipal de Girón <a href="https://www.concejogiron-santander.gov.co/">Visitar el sitio </a>,  Asociación Nacional de Investigadores Criminalísticos del Cuerpo Técnico de Investigación (CTI) de Colombia. <a href="https://www.acolcti.com/">visita el sitio.
+*   🎓 **Sistema Pos SoftBaguer:** Software (Point of Sale o punto de venta) Ideal para pymes de moda, ya que permite facturar rápido en mostrador y mantiene el stock actualizado en la nube.
+  
+*   🌐 **Desarrollos Web Gubernamental:
+
+Se llevará a cabo el desarrollo e implementación de sitios web institucionales, aplicando estándares de calidad, accesibilidad y estructura semántica, bajo dos modelos de desarrollo:
+
+📌 Sitio Web — Contraloría Municipal de Girón
+Dominio:  <a href="https://www.contraloriadegiron.gov.co/">Contraloria Municipal de Girón -Santander </a>
+Desarrollo del sitio web institucional aplicando WordPress, garantizando una gestión de contenidos ágil, segura y adaptable a dispositivos móviles. Se implementarán prácticas de codificación alineadas con las normativas de transparencia y gobierno digital, facilitando el acceso a la información pública, noticias, normativa vigente, informes de gestión y canales de atención ciudadana. El diseño se ajustará a la identidad institucional del ente de control fiscal, con navegación clara, búsqueda eficiente y secciones organizadas para el cumplimiento de su función pública.
+
+📌 Sitio Web — Concejo Municipal de Girón
+Dominio: <a href="https://www.concejogiron-santander.gov.co/">Concejo Municipal de Girón -Santander </a>
+Construcción del sitio web institucional mediante desarrollo personalizado con HTML, CSS y JavaScript semántico, cumpliendo los estándares W3C y asegurando rendimiento, accesibilidad y compatibilidad entre navegadores. El sitio albergará la información sobre estructura corporativa, sesiones, acuerdos, proyectos, integrantes y normativa del Concejo, con una arquitectura ordenada que facilita la consulta pública y el cumplimiento de los principios de transparencia, participación y publicidad de la gestión municipal.
+
+📌 Sitio Web — Asociación Nacional de Servidores y Ex Servidores del Cuerpo Técnico de Investigación (ACOLCTI)
+Dominio:  <a href="[https://www.concejogiron-santander.gov.co/](https://www.acolcti.com/)">ACOLCTI </a>
+Desarrollo del portal web institucional mediante HTML, CSS y JavaScript semántico, garantizando un código limpio, optimizado y fácil de mantener. El sitio presenta la identidad, misión, historia, servicios, convenios y actividades de formación de la Asociación, incluyendo su Centro de Altos Estudios. Se prioriza una navegación intuitiva, visibilidad de los beneficios para los asociados, canales de contacto y una experiencia de usuario optimizada para todo tipo de dispositivos, reflejando los valores institucionales: fraternidad, solidaridad, altruismo y equidad.
 
   
 *   📒 **Desarrollos Web Educativos:** Desarrollos web para el sector de educación para el trabajo, tales como:
