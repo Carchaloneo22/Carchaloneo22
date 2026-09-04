@@ -74,8 +74,7 @@ Construcción del sitio web institucional mediante desarrollo personalizado con 
 Dominio:  <a href="https://www.acolcti.com/">ACOLCTI </a>
 Desarrollo del portal web institucional mediante HTML, CSS y JavaScript semántico, garantizando un código limpio, optimizado y fácil de mantener. El sitio presenta la identidad, misión, historia, servicios, convenios y actividades de formación de la Asociación, incluyendo su Centro de Altos Estudios. Se prioriza una navegación intuitiva, visibilidad de los beneficios para los asociados, canales de contacto y una experiencia de usuario optimizada para todo tipo de dispositivos, reflejando los valores institucionales: fraternidad, solidaridad, altruismo y equidad.
 
-  
-*   📒 **Desarrollos Web Educativos:** Desarrollos web para el sector de educación para el trabajo, tales como:
+📒 **Desarrollos Web Educativos:** Desarrollos web para el sector de educación para el trabajo, tales como:
 *   Andap (Academia Nacional de Aprendizaje) <a href="https://andap.edu.co/">Andap</a>,
 *   UTO   (Unidades Técnicas  del Oriente)   <a href="https://uto.edu.co/">Uto</a>,
 *   UTC del sur (Unidades Técnicas de Colombia-sur ) <a href="https://www.utcdelsur.edu.co/">UTC del Sur</a>,
