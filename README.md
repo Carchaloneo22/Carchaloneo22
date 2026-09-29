@@ -1,8 +1,7 @@
 <div align="center">
 
 # 👋 ¡Hola! Soy Carlos Chaparro López
-### **Ingeniero Informático
-### **Ingeniero Desarrollo de Software
+### **Ingeniero Informático e Ingeniero en Desarrollo de Software
 | Especialista en Desarrollo de Software | Consultor TIC**
 
 🚀 *Apasionado por la transformación digital, la optimización de bases de datos, el desarrollo web full-stack y la educación tecnológica.*
