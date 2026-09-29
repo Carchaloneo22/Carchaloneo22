@@ -25,7 +25,7 @@ Explora retos activos, filtra por estado e inscribe a tu equipo en minutos.</p>
 
 ## 👨‍💻 Perfil Profesional
 
-Ingeniero Informático y Especialista en Desarrollo de Software con amplia trayectoria en el diseño, implementación y administración de sistemas de alta complejidad. Lidero proyectos de transformación digital, analítica de datos y desarrollo web institucional. 
+Ingeniero Informático e Ingeniero en Desarrollo de Software y Especialista en Desarrollo de Software con amplia trayectoria en el diseño, implementación y administración de sistemas de alta complejidad. Lidero proyectos de transformación digital, analítica de datos y desarrollo web institucional. 
 
 Mi labor combina la consultoría estratégica con la docencia tecnológica en instituciones de prestigio como el **SENA**, **IMCT**, **Alcaldía de Lebrija** y la **Alcaldía de Bucaramanga**.
 
