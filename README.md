@@ -47,7 +47,7 @@ Mi labor combina la consultoría estratégica con la docencia tecnológica en in
 
 * **Herramientas & Redes**
 
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git,github,vscode,gcp,wordpress" alt="Tools Stack" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git,github,vscode,gcp,wordpress,aws" alt="Tools Stack" /></a>
 
 ---
 
