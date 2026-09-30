@@ -98,8 +98,12 @@ Mi labor combina la consultoría estratégica con la docencia tecnológica en in
     <th align="left">Rol / Entidad</th>
     <th align="left">Enfoque & Responsabilidades</th>
   </tr>
+   <tr>
+    <td><b>Gobernación de Santander</b><br><i>Coordinador técnico y operativo</i></td>
+    <td>coordinación, dirección, producción, administración y mantenimiento de sistemas de información; gestión de bases de datos, desarrollo de aplicaciones y contenidos web, integración de funcionalidades y soporte de soluciones tecnológicas, de acuerdo con las necesidades de la entidad.</b>.</td>
+  </tr>
   <tr>
-    <td><b>SENA</b><br><i>Instructor Titular</i></td>
+    <td><b>SENA</b><br><i>Instructor Técnico</i></td>
     <td>Formación técnica y práctica en el programa de <b>Análisis y Desarrollo de Software (ADSO)</b>.</td>
   </tr>
   <tr>
