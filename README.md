@@ -38,17 +38,21 @@ Mi labor combina la consultoría estratégica con la docencia tecnológica en in
 
 * **Backend & Lenguajes**
 
-  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php,py" alt="Backend Stack" /></a>
+  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php,py,nodejs" alt="Backend Stack" /></a>
 
 * **Bases de Datos & Automatización**
 
   <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases Stack" /></a>
   <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /></a>
 
-* **Herramientas & Redes**
+* **Herramientas **
 
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git,github,vscode,gcp,wordpress,aws" alt="Tools Stack" /></a>
 
+* **Paquetes de instalacion **
+
+ <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=npm,pnpm" alt="Tools Stack" /></a>
+  
 ---
 
 ## 🚀 Proyectos Destacados
