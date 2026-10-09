@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Carlos Chaparro López
 ### **Ingeniero Informático e Ingeniero en Desarrollo de Software
-| Gestor de Proyectos Tic | Consultor TIC**
+| Gestor de Proyectos Tic | Consultor TIC | Web Master | Desarrollador Web | Docente e instructor |
 
 🚀 *Apasionado por la transformación digital, la optimización de bases de datos, el desarrollo web full-stack y la educación tecnológica.*
 
@@ -111,8 +111,8 @@ Mi labor combina la consultoría estratégica con la docencia tecnológica en in
     <td>Análisis de datos y soporte técnico para el <b>Observatorio de Seguridad y Convivencia Ciudadana</b>.</td>
   </tr>
   <tr>
-    <td><b>IMCT</b><br><i>Web Master & TIC</i></td>
-    <td>Gestión de arquitectura web, administración de infraestructura tecnológica y soporte.</td>
+    <td><b>IMCT</b><br><i>Web Master </i></td>
+    <td>Gestión de arquitectura web, administración de infraestructura tecnológica y soporte web.</td>
   </tr>
 </table>
 
