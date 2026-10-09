@@ -21,7 +21,7 @@
 
 <!-- Sección Núcleo Digital -->
 <a href="https://competencias.fundacion-nucleodigital.org/" target="_blank" rel="noopener noreferrer">
-  <img src="input_file_0.png" alt="Núcleo Digital" height="50" style="vertical-align: middle; border-radius: 8px;" />
+  <img src="Captura de pantalla 2026-10-09 015933.png" alt="Núcleo Digital" height="50" style="vertical-align: middle; border-radius: 8px;" />
 </a>
 
 <p><b>🚀 Descubre Competencias en Curso</b><br>
