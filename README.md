@@ -123,7 +123,7 @@ Mi labor combina la consultoría estratégica con la docencia tecnológica en in
 * 🎓 **Ingeniero en Desarrollo de Software** — *Corporación Universitaria Tecnológica del Oriente*
 * 🎓 **Ingeniero Informático** — *Universidad Pontificia Bolivariana*
 * 🎓 **Tecnólogo en Diseño y Administración de Sistemas** — *Unidades Tecnológicas de Santander*
-* 📜 **Técnico Laboral en Sistemas** — *Multitech (Avalado por el SENA)*
+* 🎓 **Técnico Laboral en Sistemas** — *Multitech (Avalado por el SENA)*
 
 ---
 
