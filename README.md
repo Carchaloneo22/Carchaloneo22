@@ -65,6 +65,9 @@ Mi labor combina la consultoría estratégica con la docencia tecnológica en in
     <li>🧑‍💻 <b>Emplea Plus:</b> Plataforma para conectar talento latinoamericano con oportunidades de empleo remoto global. <a href="https://www.empleaplus.com/">[Visitar sitio]</a></li>
     <li>📑 <b>Sistema POS SoftBaguer:</b> Software de Punto de Venta ideal para PYMEs de moda, permitiendo facturación rápida e inventario sincronizado en la nube.</li>
   </ul>
+<li>🚜 <b>Sistema de trazabilidad Agrícola :</b> Software Savia - Modulares Cacaotero y Fibras de Palma, Software de trazabilidad desde la siembra hasta la exportación </li>
+  </ul>
+  
 </details>
 
 <details open>
