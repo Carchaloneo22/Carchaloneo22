@@ -92,6 +92,19 @@ Mi labor combina la consultoría estratégica con la docencia tecnológica en in
   </ul>
 </details>
 
+
+<details open>
+  <summary><b>🔑 Desarrollos Web otros sectores </b></summary>
+  <br>
+  <ul>
+    <li>🏗️ <b>NeosConstrucciones S.A.S</b> Empresa de Pilotaje y segmentaciones : <a href="https://neosconstrucciones.com/">Neoscontrucciones.com</a></li>
+    <li>👨🏻‍🏫 <b>Robusta</b> Un calzado para cada forma de trabajar: <a href="https://robusta.com.co/">Robusta.com.co</a></li>
+    <li>👨🏻‍🏫 <b>UTC del Sur</b> (Unidades Técnicas de Colombia - Sur): <a href="https://www.utcdelsur.edu.co/">utcdelsur.edu.co</a></li>
+    <li>👨🏻‍🏫 <b>UTC General</b> (Unidades Técnicas de Colombia): <a href="https://utc.edu.co/">utc.edu.co</a></li>
+  </ul>
+</details>
+
+
 ---
 
 ## 📈 Experiencia Profesional Reciente
