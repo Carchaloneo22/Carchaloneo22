@@ -53,48 +53,71 @@ Mi labor integra la consultoría estratégica, la dirección técnica de TI y la
 
 ## 🚀 Proyectos Destacados
 
+<h2 align="center">🚀 Proyectos Destacados</h2>
+
+<p align="center">
+  Soluciones digitales para el sector público, educativo y empresarial en Colombia y Latinoamérica.
+</p>
+
+<br>
+
 <details open>
-  <summary><b>💼 Plataformas & Software Empresarial</b></summary>
-  <br>
-  <ul>
-    <li>📊 <b>Nexus-U (Plataforma de Perfilamiento):</b> Campus virtual impulsado por IA para orientación vocacional, integrando Unreal Engine 5 para una experiencia inmersiva. <i>(Corporación Tecnológica del Oriente)</i></li>
-    <li>🧑‍💻 <b>Emplea Plus:</b> Plataforma global que conecta talento latinoamericano con oportunidades laborales remotas. <a href="https://www.empleaplus.com/" target="_blank">[Visitar sitio]</a></li>
-    <li>📑 <b>Sistema POS SoftBaguer:</b> Sistema de punto de venta optimizado para PYMEs de moda con facturación rápida e inventario sincronizado en la nube.</li>
-    <li>🚜 <b>Sistema de Trazabilidad Agrícola (Software Savia):</b> Módulos para cacaoteros y fibras de palma que gestionan la trazabilidad desde la siembra hasta la exportación.</li>
-  </ul>
+<summary><h3>💼 Plataformas & Productos de Software</h3></summary>
+
+<br>
+
+| Proyecto | Descripción | Enlace |
+|:--|:--|:--:|
+| 📊 **Nexus-U** | Campus virtual de orientación vocacional impulsado por IA, con entornos inmersivos en 3D para el perfilamiento de estudiantes. Desarrollado para la *Corporación Tecnológica del Oriente*.<br><br>![IA](https://img.shields.io/badge/IA-6E40C9?style=flat-square&logo=openai&logoColor=white) ![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat-square&logo=unrealengine&logoColor=white) | — |
+| 🧑‍💻 **Emplea Plus** | Plataforma global que conecta talento latinoamericano con oportunidades laborales remotas. | <a href="https://www.empleaplus.com/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=for-the-badge" alt="Ver sitio"></a> |
+| 📑 **SoftBaguer POS** | Sistema de punto de venta para PYMEs del sector moda, con facturación ágil e inventario sincronizado en la nube. | — |
+| 🌱 **Savia — Trazabilidad Agrícola** | Módulos de trazabilidad para cadenas de cacao y fibra de palma, desde la siembra hasta la exportación. | — |
+
 </details>
 
 <details open>
-  <summary><b>🏛️ Desarrollos Web Gubernamentales & Sector Público</b></summary>
-  <br>
-  <ul>
-    <li>🏛️ <b>Webmaster — IMCT Bucaramanga:</b> Lidero la arquitectura web, la seguridad de la infraestructura y el cumplimiento de las políticas de Gobierno Digital y transparencia para optimizar el portal institucional del <a href="https://imct.gov.co/" target="_blank">IMCT</a> y la emisora <a href="https://www.emisoracultural.gov.co/" target="_blank">La Cultural FM</a>.</li>
-    <li>🏣 <b>Contraloría Municipal de Girón:</b> Portal institucional bajo WordPress cumpliendo estrictas normativas de transparencia y Gobierno Digital. <a href="https://www.contraloriadegiron.gov.co/" target="_blank">[Visitar sitio]</a></li>
-    <li>🗳️ <b>Concejo Municipal de Girón:</b> Portal web personalizado (HTML5/CSS3/JS) optimizado para consulta pública accesible de acuerdos y proyectos. <a href="https://www.concejogiron-santander.gov.co/" target="_blank">[Visitar sitio]</a></li>
-    <li>🔎 <b>ACOLCTI:</b> Portal institucional de la Asociación Nacional de Servidores y Exservidores del CTI. <a href="https://www.acolcti.com/" target="_blank">[Visitar sitio]</a></li>
-  </ul>
+<summary><h3>🏛️ Sector Público & Gobierno Digital</h3></summary>
+
+<br>
+
+| Entidad | Rol & Alcance | Enlace |
+|:--|:--|:--:|
+| 🎭 **IMCT Bucaramanga** | **Webmaster.** Lidero la arquitectura web, la seguridad de la infraestructura y el cumplimiento de la política de Gobierno Digital y Transparencia del portal institucional y de la emisora *La Cultural FM*. | <a href="https://imct.gov.co/" target="_blank"><img src="https://img.shields.io/badge/IMCT-0A66C2?style=for-the-badge" alt="IMCT"></a><br><a href="https://www.emisoracultural.gov.co/" target="_blank"><img src="https://img.shields.io/badge/La%20Cultural%20FM-0A66C2?style=for-the-badge" alt="La Cultural FM"></a> |
+| 🏣 **Contraloría Municipal de Girón** | Portal institucional alineado con la normativa de Transparencia y Gobierno Digital.<br><br>![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) | <a href="https://www.contraloriadegiron.gov.co/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=for-the-badge" alt="Ver sitio"></a> |
+| 🗳️ **Concejo Municipal de Girón** | Portal a medida, optimizado para la consulta pública y accesible de acuerdos y proyectos.<br><br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | <a href="https://www.concejogiron-santander.gov.co/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=for-the-badge" alt="Ver sitio"></a> |
+
 </details>
 
 <details open>
-  <summary><b>🎓 Portales Educativos & Institucionales</b></summary>
-  <br>
-  <ul>
-    <li>👨🏻‍🏫 <b>ANDAP</b> (Academia Nacional de Aprendizaje): <a href="https://andap.edu.co/" target="_blank">andap.edu.co</a></li>
-    <li>👨🏻‍🏫 <b>UTO</b> (Unidades Técnicas del Oriente): <a href="https://uto.edu.co/" target="_blank">uto.edu.co</a></li>
-    <li>👨🏻‍🏫 <b>UTC del Sur</b> (Unidades Técnicas de Colombia - Sur): <a href="https://www.utcdelsur.edu.co/" target="_blank">utcdelsur.edu.co</a></li>
-    <li>👨🏻‍🏫 <b>UTC General</b> (Unidades Técnicas de Colombia): <a href="https://utc.edu.co/" target="_blank">utc.edu.co</a></li>
-  </ul>
+<summary><h3>🎓 Sector Educativo & Gremial</h3></summary>
+
+<br>
+
+| Institución | Descripción | Enlace |
+|:--|:--|:--:|
+| 📘 **ANDAP** | Academia Nacional de Aprendizaje — portal académico e institucional. | <a href="https://andap.edu.co/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=for-the-badge" alt="Ver sitio"></a> |
+| 📗 **UTO** | Unidades Técnicas del Oriente — portal académico e institucional. | <a href="https://uto.edu.co/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=for-the-badge" alt="Ver sitio"></a> |
+| 📙 **UTC del Sur** | Unidades Técnicas de Colombia, sede Sur — portal académico e institucional. | <a href="https://www.utcdelsur.edu.co/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=for-the-badge" alt="Ver sitio"></a> |
+| 📕 **UTC** | Unidades Técnicas de Colombia — portal académico e institucional. | <a href="https://utc.edu.co/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=for-the-badge" alt="Ver sitio"></a> |
+| 🔎 **ACOLCTI** | Asociación Nacional de Servidores y Exservidores del CTI — portal gremial. | <a href="https://www.acolcti.com/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=for-the-badge" alt="Ver sitio"></a> |
+
 </details>
 
 <details open>
-  <summary><b>🔑 Soluciones Empresariales y Privadas</b></summary>
-  <br>
-  <ul>
-    <li>🏗️ <b>NeosConstrucciones S.A.S:</b> Empresa de pilotaje y cimentaciones de alta ingeniería. <a href="https://neosconstrucciones.com/" target="_blank">neosconstrucciones.com</a></li>
-    <li>👷 <b>Robusta:</b> Diseño y fabricación de calzado de seguridad y uso profesional. <a href="https://robusta.com.co/" target="_blank">robusta.com.co</a></li>
-  </ul>
+<summary><h3>🏢 Sector Privado</h3></summary>
+
+<br>
+
+| Empresa | Descripción | Enlace |
+|:--|:--|:--:|
+| 🏗️ **Neos Construcciones S.A.S.** | Sitio corporativo para empresa de pilotaje y cimentaciones de alta ingeniería. | <a href="https://neosconstrucciones.com/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=for-the-badge" alt="Ver sitio"></a> |
+| 👷 **Robusta** | Sitio de marca para fabricante de calzado de seguridad y uso profesional. | <a href="https://robusta.com.co/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=for-the-badge" alt="Ver sitio"></a> |
+
 </details>
 
+<br>
+
+<p align="center"><i>💬 ¿Te interesa alguno de estos proyectos? ¡Hablemos!</i></p>
 ---
 
 ## 📈 Experiencia Profesional
