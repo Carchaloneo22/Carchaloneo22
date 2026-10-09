@@ -51,7 +51,7 @@ Mi labor integra la consultoría estratégica, la dirección técnica de TI y la
 
 ---
 
-## 🚀 Proyectos Destacados
+
 
 <h2 align="center">🚀 Proyectos Destacados</h2>
 
