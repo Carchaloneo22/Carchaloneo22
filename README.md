@@ -24,9 +24,9 @@ Explora retos activos, filtra por estado e inscribe a tu equipo en minutos.</p>
 
 ## 👨‍💻 Perfil Profesional
 
-Ingeniero Informático e Ingeniero en Desarrollo de Software y Especialista en Desarrollo de Software con amplia trayectoria en el diseño, implementación y administración de sistemas de alta complejidad. Lidero proyectos de transformación digital, analítica de datos y desarrollo web institucional. 
+Ingeniero Informático e Ingeniero en Desarrollo de Software con amplia trayectoria en el diseño, implementación y administración de sistemas de alta complejidad. Lidero proyectos de transformación digital, analítica de datos y desarrollo web institucional. 
 
-Mi labor combina la consultoría estratégica con la docencia tecnológica en instituciones de prestigio como el **SENA**, **IMCT**, **Alcaldía de Lebrija** y la **Alcaldía de Bucaramanga**.
+Mi labor combina la consultoría estratégica con la docencia tecnológica en instituciones de prestigio como el **SENA**, **IMCT**,**Gobernacion de Santander** **Alcaldía de Lebrija** y la **Alcaldía de Bucaramanga**.
 
 ---
 
@@ -120,7 +120,7 @@ Mi labor combina la consultoría estratégica con la docencia tecnológica en in
 
 ## 📜 Formación Académica
 
-* 🎓 **Especialista en Desarrollo de Software** — *Corporación Universitaria Tecnológica del Oriente*
+* 🎓 **Ingeniero en Desarrollo de Software** — *Corporación Universitaria Tecnológica del Oriente*
 * 🎓 **Ingeniero Informático** — *Universidad Pontificia Bolivariana*
 * 🎓 **Tecnólogo en Diseño y Administración de Sistemas** — *Unidades Tecnológicas de Santander*
 * 📜 **Técnico Laboral en Sistemas** — *Multitech (Avalado por el SENA)*
