@@ -1,12 +1,14 @@
+
 <div align="center">
 
 # 👋 ¡Hola! Soy Carlos Chaparro López
-### **Ingeniero Informático e Ingeniero en Desarrollo de Software
-| Gestor de Proyectos Tic | Consultor TIC | Web Master | Desarrollador Web | Docente e instructor |
 
-🚀 *Apasionado por la transformación digital, la optimización de bases de datos, el desarrollo web full-stack y la educación tecnológica.*
+### **Ingeniero Informático & Ingeniero en Desarrollo de Software**
+`Gestor de Proyectos TIC` | `Consultor TIC` | `Webmaster` | `Full Stack Developer` | `Docente e Instructor`
 
-🖥️ **CEO de [S3media](https://www.s3media.com.co)** — *Empresa santandereana comprometida con el talento TIC, desarrollo de software y soporte help desk.*
+🚀 *Apasionado por la transformación digital, la optimización de bases de datos, el desarrollo web de alto impacto y la educación tecnológica.*
+
+🖥️ **CEO de [S3media](https://www.s3media.com.co)** — *Impulsando el talento TIC, desarrollo de software a medida y soporte especializado.*
 
 ---
 
@@ -15,44 +17,34 @@
 [![Linktree](https://img.shields.io/badge/Linktree-Carlos_Chaparro-43E660?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/Carloschaparro)
 
 <br>
-<a href="https://competencias.fundacion-nucleodigital.org/" target="_blank"><img src="Captura de pantalla 2026-09-04 112719.png" alt="Núcleo Digital" height="28" style="vertical-align: middle;" /></a><p>Descubre competencias en curso
-Explora retos activos, filtra por estado e inscribe a tu equipo en minutos.</p>
+
+[![Núcleo Digital](https://img.shields.io/badge/Núcleo_Digital-Competencias_en_Curso-1E88E5?style=flat-square&logo=google-classroom&logoColor=white)](https://competencias.fundacion-nucleodigital.org/)
+*Explora retos activos, filtra por estado e inscribe a tu equipo en minutos.*
 
 </div>
 
 <br>
 
+---
+
 ## 👨‍💻 Perfil Profesional
 
-Ingeniero Informático e Ingeniero en Desarrollo de Software con amplia trayectoria en el diseño, implementación y administración de sistemas de alta complejidad. Lidero proyectos de transformación digital, analítica de datos y desarrollo web institucional. 
+Ingeniero Informático e Ingeniero en Desarrollo de Software con amplia trayectoria en el diseño, implementación y administración de sistemas de información de alta complejidad. Especializado en liderar proyectos de **transformación digital**, **analítica de datos** y **desarrollo web institucional**. 
 
-Mi labor combina la consultoría estratégica con la docencia tecnológica en instituciones de prestigio como el **SENA**, **IMCT**,**Gobernacion de Santander** **Alcaldía de Lebrija** y la **Alcaldía de Bucaramanga**.
+Mi labor integra la consultoría estratégica, la dirección técnica de TI y la formación tecnológica en instituciones destacadas como la **Gobernación de Santander**, el **SENA**, el **IMCT**, la **Alcaldía de Bucaramanga** y la **Alcaldía de Lebrija**.
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-* **Frontend & Web**
+| Categoría | Tecnologías / Herramientas |
+| :--- | :--- |
+| **Frontend** | <a href="https://developer.mozilla.org/es/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,astro,tailwind" alt="Frontend Stack" /></a> |
+| **Backend & Lenguajes** | <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php,py,nodejs" alt="Backend Stack" /></a> |
+| **Bases de Datos & Automatización** | <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases Stack" /></a> <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" alt="n8n" /></a> |
+| **Cloud, DevOps & CMS** | <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git,github,vscode,gcp,aws,wordpress" alt="Tools Stack" /></a> |
+| **Gestores de Paquetes** | <a href="https://npmjs.com/"><img src="https://skillicons.dev/icons?i=npm,pnpm" alt="Package Managers" /></a> |
 
-  <a href="https://developer.mozilla.org/es/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,astro,tailwind" alt="Frontend Stack" /></a>
-
-* **Backend & Lenguajes**
-
-  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php,py,nodejs" alt="Backend Stack" /></a>
-
-* **Bases de Datos & Automatización**
-
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases Stack" /></a>
-  <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /></a>
-
-* **Herramientas **
-
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git,github,vscode,sublime,atom,gcp,wordpress,aws" alt="Tools Stack" /></a>
-
-* **Paquetes de instalacion **
-
- <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=npm,pnpm" alt="Tools Stack" /></a>
-  
 ---
 
 ## 🚀 Proyectos Destacados
@@ -61,82 +53,87 @@ Mi labor combina la consultoría estratégica con la docencia tecnológica en in
   <summary><b>💼 Plataformas & Software Empresarial</b></summary>
   <br>
   <ul>
-    <li>📊 <b>Nexus-U (Plataforma de Perfilamiento):</b> Campus virtual con IA para orientación vocacional, integrando Unreal Engine 5 para una experiencia de usuario única. <i>(Corporación Tecnológica del Oriente)</i></li>
-    <li>🧑‍💻 <b>Emplea Plus:</b> Plataforma para conectar talento latinoamericano con oportunidades de empleo remoto global. <a href="https://www.empleaplus.com/">[Visitar sitio]</a></li>
-    <li>📑 <b>Sistema POS SoftBaguer:</b> Software de Punto de Venta ideal para PYMEs de moda, permitiendo facturación rápida e inventario sincronizado en la nube.</li>
+    <li>📊 <b>Nexus-U (Plataforma de Perfilamiento):</b> Campus virtual impulsado por IA para orientación vocacional con integración de Unreal Engine 5 para una experiencia interactiva avanzada. <i>(Corporación Tecnológica del Oriente)</i></li>
+    <li>🧑‍💻 <b>Emplea Plus:</b> Plataforma web enfocada en vincular talento latinoamericano con oportunidades laborales remotas globales. <a href="https://www.empleaplus.com/" target="_blank">🌐 Visitar sitio</a></li>
+    <li>📑 <b>Sistema POS SoftBaguer:</b> Solución de Punto de Venta para PYMEs del sector moda, optimizando facturación rápida y gestión de inventario en la nube.</li>
+    <li>🚜 <b>Sistema de Trazabilidad Agrícola (Software Savia):</b> Módulos para las cadenas cacaotera y de fibra de palma, facilitando la trazabilidad integral desde la siembra hasta la exportación.</li>
   </ul>
-    <li>🚜 <b>Sistema de trazabilidad Agrícola :</b> Software Savia - Modulares Cacaotero y Fibras de Palma, Software de trazabilidad desde la siembra hasta la         exportación </li>
-    </ul>
-  
 </details>
 
-<details open>
-  <summary><b>🏛️ Desarrollos Web Gubernamentales & Sector Público</b></summary>
+<details>
+  <summary><b>🏛️ Portales Web Gubernamentales & Sector Público</b></summary>
   <br>
   <ul>
-    <li>🏛️ <b>Web Master — IMCT Bucaramanga:</b> Arquitectura web, seguridad y gestión documental para el <a href="https://imct.gov.co/">IMCT</a> y la emisora <a href="https://www.emisoracultural.gov.co/">La Cultural FM</a>.</li>
-    <li>🏣 <b>Contraloría Municipal de Girón:</b> Sitio web institucional en WordPress cumpliendo normativas de transparencia y Gobierno Digital. <a href="https://www.contraloriadegiron.gov.co/">[Visitar sitio]</a></li>
-    <li>🗳️ <b>Concejo Municipal de Girón:</b> Portal web personalizado (HTML/CSS/JS semántico) accesible y optimizado para consulta pública de acuerdos y proyectos. <a href="https://www.concejogiron-santander.gov.co/">[Visitar sitio]</a></li>
-    <li>🔎 <b>ACOLCTI:</b> Portal institucional de la Asociación Nacional de Servidores y Ex Servidores del CTI. <a href="https://www.acolcti.com/">[Visitar sitio]</a></li>
+    <li>🏛️ <b>IMCT Bucaramanga:</b> Arquitectura web, seguridad de la información y gestión documental para el <a href="https://imct.gov.co/" target="_blank">IMCT</a> y la emisora <a href="https://www.emisoracultural.gov.co/" target="_blank">La Cultural FM</a>.</li>
+    <li>🏣 <b>Contraloría Municipal de Girón:</b> Portal institucional bajo WordPress estructurado con lineamientos de Gobierno Digital y máxima transparencia. <a href="https://www.contraloriadegiron.gov.co/" target="_blank">🌐 Visitar sitio</a></li>
+    <li>🗳️ <b>Concejo Municipal de Girón:</b> Desarrollo a medida (HTML5/CSS3/JS semántico) priorizando accesibilidad y consulta pública de acuerdos municipales. <a href="https://www.concejogiron-santander.gov.co/" target="_blank">🌐 Visitar sitio</a></li>
+    <li>🔎 <b>ACOLCTI:</b> Sitio web oficial de la Asociación Nacional de Servidores y Exservidores del CTI. <a href="https://www.acolcti.com/" target="_blank">🌐 Visitar sitio</a></li>
   </ul>
 </details>
 
-<details open>
-  <summary><b>📒 Desarrollos Web Educativos</b></summary>
+<details>
+  <summary><b>🎓 Sector Educativo</b></summary>
   <br>
   <ul>
-    <li>👨🏻‍🏫 <b>ANDAP</b> (Academia Nacional de Aprendizaje): <a href="https://andap.edu.co/">andap.edu.co</a></li>
-    <li>👨🏻‍🏫 <b>UTO</b> (Unidades Técnicas del Oriente): <a href="https://uto.edu.co/">uto.edu.co</a></li>
-    <li>👨🏻‍🏫 <b>UTC del Sur</b> (Unidades Técnicas de Colombia - Sur): <a href="https://www.utcdelsur.edu.co/">utcdelsur.edu.co</a></li>
-    <li>👨🏻‍🏫 <b>UTC General</b> (Unidades Técnicas de Colombia): <a href="https://utc.edu.co/">utc.edu.co</a></li>
+    <li>👨🏻‍🏫 <b>ANDAP</b> (Academia Nacional de Aprendizaje) — <a href="https://andap.edu.co/" target="_blank">andap.edu.co</a></li>
+    <li>👨🏻‍🏫 <b>UTO</b> (Unidades Técnicas del Oriente) — <a href="https://uto.edu.co/" target="_blank">uto.edu.co</a></li>
+    <li>👨🏻‍🏫 <b>UTC del Sur</b> (Unidades Técnicas de Colombia - Sur) — <a href="https://www.utcdelsur.edu.co/" target="_blank">utcdelsur.edu.co</a></li>
+    <li>👨🏻‍🏫 <b>UTC General</b> (Unidades Técnicas de Colombia) — <a href="https://utc.edu.co/" target="_blank">utc.edu.co</a></li>
   </ul>
 </details>
 
-
-<details open>
-  <summary><b>🔑 Desarrollos Web otros sectores </b></summary>
+<details>
+  <summary><b>🏢 Otros Sectores</b></summary>
   <br>
   <ul>
-    <li>🏗️ <b>NeosConstrucciones S.A.S</b> Empresa de Pilotaje y segmentaciones : <a href="https://neosconstrucciones.com/">Neoscontrucciones.com</a></li>
-    <li>👷 <b>Robusta</b> Robusta nos dedicamos al diseño y fabricación de calzado de seguridad y calzado de uso profesional : <a href="https://robusta.com.co/">Robusta.com.co</a></li>
+    <li>🏗️ <b>Neos Construcciones S.A.S:</b> Sitio corporativo para empresa especializada en pilotaje y cimentaciones. <a href="https://neosconstrucciones.com/" target="_blank">neosconstrucciones.com</a></li>
+    <li>👷 <b>Robusta:</b> Plataforma web para empresa dedicada al diseño y fabricación de calzado de seguridad profesional. <a href="https://robusta.com.co/" target="_blank">robusta.com.co</a></li>
   </ul>
 </details>
-
 
 ---
 
-## 📈 Experiencia Profesional Reciente
+## 📈 Experiencia Profesional
 
 <table>
-  <tr>
-    <th align="left">Rol / Entidad</th>
-    <th align="left">Enfoque & Responsabilidades</th>
-  </tr>
-   <tr>
-    <td><b>Gobernación de Santander</b><br><i>Coordinador técnico y operativo</i></td>
-    <td>coordinación, dirección, producción, administración y mantenimiento de sistemas de información; gestión de bases de datos, desarrollo de aplicaciones y contenidos web, integración de funcionalidades y soporte de soluciones tecnológicas, de acuerdo con las necesidades de la entidad.</b>.</td>
-  </tr>
-  <tr>
-    <td><b>SENA</b><br><i>Instructor Técnico</i></td>
-    <td>Formación técnica y práctica en el programa de <b>Análisis y Desarrollo de Software (ADSO)</b>.</td>
-  </tr>
-  <tr>
-    <td><b>Alcaldía de Bucaramanga</b><br><i>Soporte en Ingeniería</i></td>
-    <td>Análisis de datos y soporte técnico para el <b>Observatorio de Seguridad y Convivencia Ciudadana</b>.</td>
-  </tr>
-  <tr>
-    <td><b>IMCT</b><br><i>Web Master </i></td>
-    <td>Gestión de arquitectura web, administración de infraestructura tecnológica y soporte web.</td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="left">Entidad / Organización</th>
+      <th align="left">Rol</th>
+      <th align="left">Enfoque & Principales Logros</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Gobernación de Santander</b></td>
+      <td>Coordinador Técnico y Operativo</td>
+      <td>Dirección, producción, administración y mantenimiento de sistemas de información; gestión de bases de datos, desarrollo de apps y soporte de soluciones tecnológicas institucionales.</td>
+    </tr>
+    <tr>
+      <td><b>SENA</b></td>
+      <td>Instructor Técnico</td>
+      <td>Formación técnica y práctica de aprendices en el programa de <b>Análisis y Desarrollo de Software (ADSO)</b>.</td>
+    </tr>
+    <tr>
+      <td><b>Alcaldía de Bucaramanga</b></td>
+      <td>Ingeniero de Soporte</td>
+      <td>Análisis de datos, procesamiento de información y soporte técnico para el <b>Observatorio de Seguridad y Convivencia Ciudadana</b>.</td>
+    </tr>
+    <tr>
+      <td><b>IMCT Bucaramanga</b></td>
+      <td>Webmaster</td>
+      <td>Gestión de arquitectura de software, administración de infraestructura tecnológica y soporte continuo a servicios web.</td>
+    </tr>
+  </tbody>
 </table>
 
 ---
 
 ## 📜 Formación Académica
 
-* 🎓 **Ingeniero en Desarrollo de Software** — *Corporación Universitaria Tecnológica del Oriente*
-* 🎓 **Ingeniero Informático** — *Universidad Pontificia Bolivariana*
-* 🎓 **Tecnólogo en Diseño y Administración de Sistemas** — *Unidades Tecnológicas de Santander*
+* 🎓 **Ingeniería en Desarrollo de Software** — *Corporación Universitaria Tecnológica del Oriente*
+* 🎓 **Ingeniería Informática** — *Universidad Pontificia Bolivariana*
+* 🎓 **Tecnología en Diseño y Administración de Sistemas** — *Unidades Tecnológicas de Santander*
 * 🎓 **Técnico Laboral en Sistemas** — *Multitech (Avalado por el SENA)*
 
 ---
