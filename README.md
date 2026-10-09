@@ -68,7 +68,7 @@ Mi labor integra la consultoría estratégica, la dirección técnica de TI y la
   <summary><b>🏛️ Desarrollos Web Gubernamentales & Sector Público</b></summary>
   <br>
   <ul>
-    <li>🏛️ <b>Webmaster — IMCT Bucaramanga:</b> Lidero la arquitectura web, la seguridad de la infraestructura y el cumplimiento de las políticas de Gobierno Digital y transparencia para optimizar el portal institucional del IMCT y la emisora La Cultural FM. <a href="https://imct.gov.co/" target="_blank">IMCT</a> y la emisora <a href="https://www.emisoracultural.gov.co/" target="_blank">La Cultural FM</a>.</li>
+    <li>🏛️ <b>Webmaster — IMCT Bucaramanga:</b> Lidero la arquitectura web, la seguridad de la infraestructura y el cumplimiento de las políticas de Gobierno Digital y transparencia para optimizar el portal institucional del <a href="https://imct.gov.co/" target="_blank">IMCT</a> y la emisora <a href="https://www.emisoracultural.gov.co/" target="_blank">La Cultural FM</a>.</li>
     <li>🏣 <b>Contraloría Municipal de Girón:</b> Portal institucional bajo WordPress cumpliendo estrictas normativas de transparencia y Gobierno Digital. <a href="https://www.contraloriadegiron.gov.co/" target="_blank">[Visitar sitio]</a></li>
     <li>🗳️ <b>Concejo Municipal de Girón:</b> Portal web personalizado (HTML5/CSS3/JS) optimizado para consulta pública accesible de acuerdos y proyectos. <a href="https://www.concejogiron-santander.gov.co/" target="_blank">[Visitar sitio]</a></li>
     <li>🔎 <b>ACOLCTI:</b> Portal institucional de la Asociación Nacional de Servidores y Exservidores del CTI. <a href="https://www.acolcti.com/" target="_blank">[Visitar sitio]</a></li>
