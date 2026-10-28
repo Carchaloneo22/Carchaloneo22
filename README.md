@@ -11,7 +11,7 @@
 
 🖥️ **CEO de [S3media](https://www.s3media.com.co)** — *Impulsando el talento TIC, desarrollo de software a medida y soporte especializado.*
 
-👨‍💻 **Instructor Sena Análisis y Desarrollo de Software [CSET](https://presentacion-proyectos-sena-2026.pages.dev/)** — *Desde el Centro de servicios empresariales y turísticos mostramos nuestros proyectos 2026  en colaboración con los aprendices y egresados de ADSO con.*
+👨‍💻 **Instructor Sena Análisis y Desarrollo de Software [CSET](https://presentacion-proyectos-sena-2026.pages.dev/)** — *Desde el Centro de servicios empresariales y turísticos mostramos conocimientos avanzados en soluciones digitales y productividad.*
 
 ---
 
@@ -33,11 +33,17 @@
 
 <br>
 
+## 🌐 Portafolio Personal
+
+👉 Visita mi portafolio: [carchaloneo22.github.io](https://carchaloneo22.github.io/)
+
+<br>
+
 ## 👨‍💻 Perfil Profesional
 
-Ingeniero Informático e Ingeniero en Desarrollo de Software con amplia trayectoria en el diseño, implementación y administración de sistemas de información de alta complejidad. Especializado en liderar proyectos de **transformación digital**, **analítica de datos** y **desarrollo web institucional**.
+Ingeniero Informático e Ingeniero en Desarrollo de Software con amplia trayectoria en el diseño, implementación y administración de sistemas de información de alta complejidad. Especializado en la transformación digital, desarrollo web, seguridad de la información y gestión de proyectos TIC para instituciones públicas y privadas.
 
-Mi labor integra la consultoría estratégica, la dirección técnica de TI y la formación tecnológica en instituciones destacadas como la **Gobernación de Santander**, el **SENA**, el **IMCT**, la **Alcaldía de Bucaramanga** y la **Alcaldía de Lebrija**.
+Mi labor integra la consultoría estratégica, la dirección técnica de TI y la formación tecnológica en instituciones destacadas como la **Gobernación de Santander**, el **SENA**, el **IMCT**, la **Alcaldía de Bucaramanga** y diversas empresas del sector privado.
 
 ---
 
@@ -47,7 +53,7 @@ Mi labor integra la consultoría estratégica, la dirección técnica de TI y la
 | :--- | :--- |
 | **Frontend** | <a href="https://developer.mozilla.org/es/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,astro,tailwind" alt="Frontend Stack" /></a> |
 | **Backend & Lenguajes** | <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php,py,nodejs" alt="Backend Stack" /></a> |
-| **Bases de Datos & Automatización** | <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases Stack" /></a> &nbsp; <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /></a> |
+| **Bases de Datos & Automatización** | <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases Stack" /></a> &nbsp; <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-1F1F1F?style=flat-square&logo=n8n&logoColor=white" alt="n8n" /></a> |
 | **Cloud, DevOps & CMS** | <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git,github,vscode,gcp,aws,wordpress" alt="Tools Stack" /></a> |
 | **Gestores de Paquetes** | <a href="https://npmjs.com/"><img src="https://skillicons.dev/icons?i=npm,pnpm" alt="Package Managers" /></a> |
 
@@ -68,11 +74,11 @@ Mi labor integra la consultoría estratégica, la dirección técnica de TI y la
 
 | Proyecto | Descripción | Enlace |
 |:--|:--|:--:|
-| 📊 **Nexus-U** | Campus virtual de orientación vocacional impulsado por IA, con entornos inmersivos en 3D para el perfilamiento de estudiantes. Desarrollado para la *Corporación Tecnológica del Oriente*.<br><br>![IA](https://img.shields.io/badge/IA-6E40C9?style=flat-square&logo=openai&logoColor=white) ![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat-square&logo=unrealengine&logoColor=white) | <a href="https://carchaloneo22.github.io/Nexus-u/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=for-the-badge" alt="Ver sitio"></a> |
-| 🎓 **Plataforma Vanessa** | Plataforma de educación en colaboración con Esteban Janiot. | <a href="https://srjaniot.github.io/vanessa-landing/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=for-the-badge" alt="Ver sitio"></a> |
-| 🧑‍💻 **Emplea Plus** | Plataforma global que conecta talento latinoamericano con oportunidades laborales remotas. | <a href="https://www.empleaplus.com/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=for-the-badge" alt="Ver sitio"></a> |
+| 📊 **Nexus-U** | Campus virtual de orientación vocacional impulsado por IA, con entornos inmersivos en 3D para el perfilamiento de estudiantes. Desarrollado para la *Corporación Tecnológica del Oriente* y orientado al fortalecimiento de competencias laborales. | <a href="https://nexus-u.com/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Nexus-U" /></a> |
+| 🎓 **Plataforma Vanessa** | Plataforma de educación en colaboración con Esteban Janiot. | <a href="https://srjaniot.github.io/vanessa-landing/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Plataforma Vanessa" /></a> |
+| 🧑‍💻 **Emplea Plus** | Plataforma global que conecta talento latinoamericano con oportunidades laborales remotas. | <a href="https://www.empleaplus.com/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Emplea Plus" /></a> |
 | 📑 **SoftBaguer POS** | Sistema de punto de venta para PYMEs del sector moda, con facturación ágil e inventario sincronizado en la nube. | — |
-| 🌱 **Savia — Trazabilidad Agrícola** | Módulos de trazabilidad para cadenas de cacao y fibra de palma, desde la siembra hasta la exportación. | <a href="https://carchaloneo22.github.io/Cacaotero/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=for-the-badge" alt="Ver sitio"></a> |
+| 🌱 **Savia — Trazabilidad Agrícola** | Módulos de trazabilidad para cadenas de cacao y fibra de palma, desde la siembra hasta la exportación. | <a href="https://carchaloneo22.github.io/Cacaotrail/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Savia" /></a> |
 
 </details>
 
@@ -83,9 +89,9 @@ Mi labor integra la consultoría estratégica, la dirección técnica de TI y la
 
 | Entidad | Rol & Alcance | Enlace |
 |:--|:--|:--:|
-| 🎭 **IMCT Bucaramanga** | **Webmaster.** Lidero la arquitectura web, la seguridad de la infraestructura y el cumplimiento de la política de Gobierno Digital y Transparencia del portal institucional y de la emisora *La Cultural FM*.<br><br>![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) | <a href="https://imct.gov.co/" target="_blank"><img src="https://img.shields.io/badge/IMCT-0A66C2?style=for-the-badge" alt="IMCT"></a><br><a href="https://www.emisoracultural.gov.co/" target="_blank"><img src="https://img.shields.io/badge/La%20Cultural%20FM-0A66C2?style=for-the-badge" alt="La Cultural FM"></a> |
-| 🏣 **Contraloría Municipal de Girón** | Portal institucional alineado con la normativa de Transparencia y Gobierno Digital.<br><br>![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) | <a href="https://www.contraloriadegiron.gov.co/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=for-the-badge" alt="Ver sitio"></a> |
-| 🗳️ **Concejo Municipal de Girón** | Portal a medida, optimizado para la consulta pública y accesible de acuerdos y proyectos.<br><br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | <a href="https://www.concejogiron-santander.gov.co/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=for-the-badge" alt="Ver sitio"></a> |
+| 🎭 **IMCT Bucaramanga** | **Webmaster.** Lidero la arquitectura web, la seguridad de la infraestructura y el cumplimiento de la política de Gobierno Digital y Transparencia del portal institucional. | <a href="https://imctbucaramanga.gov.co/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="IMCT Bucaramanga" /></a> |
+| 🏣 **Contraloría Municipal de Girón** | Portal institucional alineado con la normativa de Transparencia y Gobierno Digital.<br><br>![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) | <a href="https://www.giron.gov.co/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Contraloría Girón" /></a> |
+| 🗳️ **Concejo Municipal de Girón** | Portal a medida, optimizado para la consulta pública y accesible de acuerdos y proyectos.<br><br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | <a href="https://www.giron.gov.co/concejo" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Concejo Girón" /></a> |
 
 </details>
 
@@ -96,11 +102,11 @@ Mi labor integra la consultoría estratégica, la dirección técnica de TI y la
 
 | Institución | Descripción | Enlace |
 |:--|:--|:--:|
-| 📘 **ANDAP** | Academia Nacional de Aprendizaje — portal académico e institucional. | <a href="https://andap.edu.co/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=for-the-badge" alt="Ver sitio"></a> |
-| 📗 **UTO** | Unidades Técnicas del Oriente — portal académico e institucional. | <a href="https://uto.edu.co/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=for-the-badge" alt="Ver sitio"></a> |
-| 📙 **UTC del Sur** | Unidades Técnicas de Colombia, sede Sur — portal académico e institucional. | <a href="https://www.utcdelsur.edu.co/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=for-the-badge" alt="Ver sitio"></a> |
-| 📕 **UTC** | Unidades Técnicas de Colombia — portal académico e institucional. | <a href="https://utc.edu.co/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=for-the-badge" alt="Ver sitio"></a> |
-| 🔎 **ACOLCTI** | Asociación Nacional de Servidores y Exservidores del CTI — portal gremial. | <a href="https://www.acolcti.com/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=for-the-badge" alt="Ver sitio"></a> |
+| 📘 **ANDAP** | Academia Nacional de Aprendizaje — portal académico e institucional. | <a href="https://andap.edu.co/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="ANDAP" /></a> |
+| 📗 **UTO** | Unidades Técnicas del Oriente — portal académico e institucional. | <a href="https://uto.edu.co/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="UTO" /></a> |
+| 📙 **UTC del Sur** | Unidades Técnicas de Colombia, sede Sur — portal académico e institucional. | <a href="https://www.utcdelsur.edu.co/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="UTC del Sur" /></a> |
+| 📕 **UTC** | Unidades Técnicas de Colombia — portal académico e institucional. | <a href="https://utc.edu.co/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="UTC" /></a> |
+| 🔎 **ACOLCTI** | Asociación Nacional de Servidores y Exservidores del CTI — portal gremial. | <a href="https://www.acolcti.com/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="ACOLCTI" /></a> |
 
 </details>
 
@@ -111,8 +117,8 @@ Mi labor integra la consultoría estratégica, la dirección técnica de TI y la
 
 | Empresa | Descripción | Enlace |
 |:--|:--|:--:|
-| 🏗️ **Neos Construcciones S.A.S.** | Sitio corporativo para empresa de pilotaje y cimentaciones de alta ingeniería. | <a href="https://neosconstrucciones.com/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=for-the-badge" alt="Ver sitio"></a> |
-| 👷 **Robusta** | Sitio de marca para fabricante de calzado de seguridad y uso profesional. | <a href="https://robusta.com.co/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=for-the-badge" alt="Ver sitio"></a> |
+| 🏗️ **Neos Construcciones S.A.S.** | Sitio corporativo para empresa de pilotaje y cimentaciones de alta ingeniería. | <a href="https://neosconstrucciones.com/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Neos Construcciones" /></a> |
+| 👷 **Robusta** | Sitio de marca para fabricante de calzado de seguridad y uso profesional. | <a href="https://robusta.com.co/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Robusta" /></a> |
 
 </details>
 
@@ -131,7 +137,7 @@ Mi labor integra la consultoría estratégica, la dirección técnica de TI y la
   </tr>
   <tr>
     <td><b>Gobernación de Santander</b></td>
-    <td><b>Coordinador Técnico Proyecto Santander Inmersivo:</b> Dirección, producción y mantenimiento de sistemas de información; administración de bases de datos, desarrollo web y soporte de infraestructura tecnológica corporativa.</td>
+    <td><b>Coordinador Técnico Proyecto Santander Inmersivo:</b> Dirección, producción y mantenimiento de sistemas de información; administración de bases de datos, desarrollo web y soporte técnico especializado para iniciativas de innovación y gobierno digital.</td>
   </tr>
   <tr>
     <td><b>SENA</b></td>
