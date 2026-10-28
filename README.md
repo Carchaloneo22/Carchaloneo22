@@ -11,6 +11,8 @@
 
 🖥️ **CEO de [S3media](https://www.s3media.com.co)** — *Impulsando el talento TIC, desarrollo de software a medida y soporte especializado.*
 
+👨‍💻 **Instructor Sena Análisis y Desarrollo de Software [CSET](https://presentacion-proyectos-sena-2026.pages.dev/)** — *Impulsando el talento TIC, desarrollo de software a medida y soporte especializado.*
+
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Chaparro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-chaparro-3b1aa726b/)
