@@ -11,7 +11,7 @@
 
 🖥️ **CEO de [S3media](https://www.s3media.com.co)** — *Impulsando el talento TIC, desarrollo de software a medida y soporte especializado.*
 
-👨‍💻 **Instructor Sena Análisis y Desarrollo de Software [CSET](https://presentacion-proyectos-sena-2026.pages.dev/)** — *Impulsando el talento TIC, desarrollo de software a medida y soporte especializado.*
+👨‍💻 **Instructor Sena Análisis y Desarrollo de Software [CSET](https://presentacion-proyectos-sena-2026.pages.dev/)** — *Desde el Centro de servicios empresariales y turísticos mostramos nuestros proyectos 2026  en colaboración con los aprendices y egresados de ADSO con.*
 
 ---
 
