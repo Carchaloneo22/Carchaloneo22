@@ -51,8 +51,6 @@ Mi labor integra la consultoría estratégica, la dirección técnica de TI y la
 
 ---
 
-
-
 <h2 align="center">🚀 Proyectos Destacados</h2>
 
 <p align="center">
@@ -68,10 +66,11 @@ Mi labor integra la consultoría estratégica, la dirección técnica de TI y la
 
 | Proyecto | Descripción | Enlace |
 |:--|:--|:--:|
-| 📊 **Nexus-U** | Campus virtual de orientación vocacional impulsado por IA, con entornos inmersivos en 3D para el perfilamiento de estudiantes. Desarrollado para la *Corporación Tecnológica del Oriente*.<br><br>![IA](https://img.shields.io/badge/IA-6E40C9?style=flat-square&logo=openai&logoColor=white) ![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat-square&logo=unrealengine&logoColor=white) | — |
+| 📊 **Nexus-U** | Campus virtual de orientación vocacional impulsado por IA, con entornos inmersivos en 3D para el perfilamiento de estudiantes. Desarrollado para la *Corporación Tecnológica del Oriente*.<br><br>![IA](https://img.shields.io/badge/IA-6E40C9?style=flat-square&logo=openai&logoColor=white) ![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat-square&logo=unrealengine&logoColor=white) | <a href="https://carchaloneo22.github.io/Nexus-u/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=for-the-badge" alt="Ver sitio"></a> |
+| 🎓 **Plataforma Vanessa** | Plataforma de educación en colaboración con Esteban Janiot. | <a href="https://srjaniot.github.io/vanessa-landing/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=for-the-badge" alt="Ver sitio"></a> |
 | 🧑‍💻 **Emplea Plus** | Plataforma global que conecta talento latinoamericano con oportunidades laborales remotas. | <a href="https://www.empleaplus.com/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=for-the-badge" alt="Ver sitio"></a> |
 | 📑 **SoftBaguer POS** | Sistema de punto de venta para PYMEs del sector moda, con facturación ágil e inventario sincronizado en la nube. | — |
-| 🌱 **Savia — Trazabilidad Agrícola** | Módulos de trazabilidad para cadenas de cacao y fibra de palma, desde la siembra hasta la exportación. | — |
+| 🌱 **Savia — Trazabilidad Agrícola** | Módulos de trazabilidad para cadenas de cacao y fibra de palma, desde la siembra hasta la exportación. | <a href="https://carchaloneo22.github.io/Cacaotero/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=for-the-badge" alt="Ver sitio"></a> |
 
 </details>
 
@@ -82,14 +81,14 @@ Mi labor integra la consultoría estratégica, la dirección técnica de TI y la
 
 | Entidad | Rol & Alcance | Enlace |
 |:--|:--|:--:|
-| 🎭 **IMCT Bucaramanga** | **Webmaster.** Lidero la arquitectura web, la seguridad de la infraestructura y el cumplimiento de la política de Gobierno Digital y Transparencia del portal institucional y de la emisora *La Cultural FM*. | <a href="https://imct.gov.co/" target="_blank"><img src="https://img.shields.io/badge/IMCT-0A66C2?style=for-the-badge" alt="IMCT"></a><br><a href="https://www.emisoracultural.gov.co/" target="_blank"><img src="https://img.shields.io/badge/La%20Cultural%20FM-0A66C2?style=for-the-badge" alt="La Cultural FM"></a> |
+| 🎭 **IMCT Bucaramanga** | **Webmaster.** Lidero la arquitectura web, la seguridad de la infraestructura y el cumplimiento de la política de Gobierno Digital y Transparencia del portal institucional y de la emisora *La Cultural FM*.<br><br>![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) | <a href="https://imct.gov.co/" target="_blank"><img src="https://img.shields.io/badge/IMCT-0A66C2?style=for-the-badge" alt="IMCT"></a><br><a href="https://www.emisoracultural.gov.co/" target="_blank"><img src="https://img.shields.io/badge/La%20Cultural%20FM-0A66C2?style=for-the-badge" alt="La Cultural FM"></a> |
 | 🏣 **Contraloría Municipal de Girón** | Portal institucional alineado con la normativa de Transparencia y Gobierno Digital.<br><br>![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) | <a href="https://www.contraloriadegiron.gov.co/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=for-the-badge" alt="Ver sitio"></a> |
 | 🗳️ **Concejo Municipal de Girón** | Portal a medida, optimizado para la consulta pública y accesible de acuerdos y proyectos.<br><br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | <a href="https://www.concejogiron-santander.gov.co/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=for-the-badge" alt="Ver sitio"></a> |
 
 </details>
 
 <details open>
-<summary><h3>🎓 Sector Educativo & Gremial</h3></summary>
+<summary><h3>🎓 Sector Educativo & FORMACION PARA EL TRABAJO</h3></summary>
 
 <br>
 
@@ -118,6 +117,7 @@ Mi labor integra la consultoría estratégica, la dirección técnica de TI y la
 <br>
 
 <p align="center"><i>💬 ¿Te interesa alguno de estos proyectos? ¡Hablemos!</i></p>
+
 ---
 
 ## 📈 Experiencia Profesional
@@ -129,7 +129,7 @@ Mi labor integra la consultoría estratégica, la dirección técnica de TI y la
   </tr>
   <tr>
     <td><b>Gobernación de Santander</b></td>
-    <td><b>Coordinador Técnico y Operativo:</b> Dirección, producción y mantenimiento de sistemas de información; administración de bases de datos, desarrollo web y soporte de infraestructura tecnológica corporativa.</td>
+    <td><b>Coordinador Técnico Proyecto Santander Inmersivo:</b> Dirección, producción y mantenimiento de sistemas de información; administración de bases de datos, desarrollo web y soporte de infraestructura tecnológica corporativa.</td>
   </tr>
   <tr>
     <td><b>SENA</b></td>
