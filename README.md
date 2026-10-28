@@ -3,7 +3,7 @@
 
 # 👋 ¡Hola! Soy Carlos Chaparro López
 
-### **Ingeniero Informático & Ingeniero en Desarrollo de Software**
+### **Ingeniero Informático e Ingeniero en Desarrollo de Software**
 
 `Gestor de Proyectos TIC` | `Consultor TIC` | `Webmaster` | `Full Stack Developer` | `Docente e Instructor`
 
