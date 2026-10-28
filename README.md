@@ -5,7 +5,7 @@
 
 ### **Ingeniero Informático e Ingeniero en Desarrollo de Software**
 
-`Gestor de Proyectos TIC` | `Consultor TIC` | `Webmaster` | `Full Stack Developer` | `Docente e Instructor`
+`Gestor de Proyectos TIC` | `Consultor TIC` | `Webmaster` | `Frontk Developer` | `Docente e Instructor`
 
 🚀 *Apasionado por la transformación digital, la optimización de bases de datos, el desarrollo web de alto impacto y la educación tecnológica.*
 
