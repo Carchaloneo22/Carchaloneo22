@@ -34,12 +34,6 @@
 
 <br>
 
-## 🌐 Portafolio Personal
-
-👉 Visita mi portafolio: [carchaloneo22.github.io](https://carchaloneo22.github.io/)
-
-<br>
-
 ## 👨‍💻 Perfil Profesional
 
 Ingeniero Informático e Ingeniero en Desarrollo de Software con amplia trayectoria en el diseño, implementación y administración de sistemas de información de alta complejidad. Especializado en soluciones digitales para entidades públicas, educativas y privadas, con enfoque en innovación, transformación tecnológica y gobernanza digital.
