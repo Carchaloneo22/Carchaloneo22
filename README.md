@@ -85,7 +85,7 @@ Mi labor integra la consultoría estratégica, la dirección técnica de TI y la
 | Entidad | Rol & Alcance | Enlace |
 |:--|:--|:--:|
 | 🎭 **IMCT Bucaramanga** | **Webmaster.** Lidero la arquitectura web, la seguridad de la infraestructura y el cumplimiento de la política de Gobierno Digital y Transparencia del portal institucional. | <a href="https://www.contraloriadegiron.gov.co/" target="_blank"><img src="https://img.shields.io/badge/Ver%20portal-0A66C2?style=flat-square" alt="Ver portal" /></a> |
-| 🏣 **Contraloría Municipal de Girón** | Portal institucional alineado con la normativa de Transparencia y Gobierno Digital. | <a href="https://giron.gov.co/" target="_blank"><img src="https://img.shields.io/badge/Ver%20portal-0A66C2?style=flat-square" alt="Ver portal" /></a> |
+| 🏣 **Contraloría Municipal de Girón** | Portal institucional alineado con la normativa de Transparencia y Gobierno Digital. | <a href="https://www.contraloriadegiron.gov.co/" target="_blank"><img src="https://img.shields.io/badge/Ver%20portal-0A66C2?style=flat-square" alt="Ver portal" /></a> |
 | 🗳️ **Concejo Municipal de Girón** | Portal a medida, optimizado para la consulta pública y accesible de acuerdos y proyectos. | <a href="https://www.concejogiron-santander.gov.co/" target="_blank"><img src="https://img.shields.io/badge/Ver%20portal-0A66C2?style=flat-square" alt="Ver portal" /></a> |
 
 </details>
