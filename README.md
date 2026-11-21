@@ -69,7 +69,7 @@ Mi labor integra la consultoría estratégica, la dirección técnica de TI y la
 
 | Proyecto | Descripción | Enlace |
 |:--|:--|:--:|
-| 📊 **Nexus-U** | Campus virtual de orientación vocacional impulsado por IA, con entornos inmersivos en 3D para el perfilamiento de estudiantes. Desarrollado para la *Corporación Tecnológica del Oriente*. | <a href="https://nexus-u.example.com/" target="_blank"><img src="https://img.shields.io/badge/Ver%20proyecto-0A66C2?style=flat-square" alt="Ver proyecto" /></a> |
+| 📊 **Nexus-U** | Campus virtual de orientación vocacional impulsado por IA, con entornos inmersivos en 3D para el perfilamiento de estudiantes. Desarrollado para la *Corporación Tecnológica del Oriente*. | <a href="[https://nexus-u.example.com/](https://carchaloneo22.github.io/Nexus-u/)" target="_blank"><img src="https://img.shields.io/badge/Ver%20proyecto-0A66C2?style=flat-square" alt="Ver proyecto" /></a> |
 | 🎓 **Plataforma Vanessa** | Plataforma de educación en colaboración con Esteban Janiot. | <a href="https://srjaniot.github.io/vanessa-landing/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=flat-square" alt="Ver sitio" /></a> |
 | 🧑‍💻 **Emplea Plus** | Plataforma global que conecta talento latinoamericano con oportunidades laborales remotas. | <a href="https://www.empleaplus.com/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=flat-square" alt="Ver sitio" /></a> |
 | 📑 **SoftBaguer POS** | Sistema de punto de venta para PYMEs del sector moda, con facturación ágil e inventario sincronizado en la nube. | — |
