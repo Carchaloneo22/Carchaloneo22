@@ -73,7 +73,7 @@ Mi labor integra la consultoría estratégica, la dirección técnica de TI y la
 | 🎓 **Plataforma Vanessa** | Plataforma de educación en colaboración con Esteban Janiot. | <a href="https://srjaniot.github.io/vanessa-landing/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=flat-square" alt="Ver sitio" /></a> |
 | 🧑‍💻 **Emplea Plus** | Plataforma global que conecta talento latinoamericano con oportunidades laborales remotas. | <a href="https://www.empleaplus.com/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=flat-square" alt="Ver sitio" /></a> |
 | 📑 **SoftBaguer POS** | Sistema de punto de venta para PYMEs del sector moda, con facturación ágil e inventario sincronizado en la nube. | — |
-| 🌱 **Savia — Trazabilidad Agrícola** | Módulos de trazabilidad para cadenas de cacao y fibra de palma, desde la siembra hasta la exportación. | <a href="https://carchaloneo22.github.io/Cacaot](https://carchaloneo22.github.io/Cacaotero/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=flat-square" alt="Ver sitio" /></a> |
+| 🌱 **Savia — Trazabilidad Agrícola** | Módulos de trazabilidad para cadenas de cacao y fibra de palma, desde la siembra hasta la exportación. | <a href="https://carchaloneo22.github.io/Cacaotero/" target="_blank"><img src="https://img.shields.io/badge/Ver%20sitio-0A66C2?style=flat-square" alt="Ver sitio" /></a> |
 
 </details>
 
@@ -84,7 +84,7 @@ Mi labor integra la consultoría estratégica, la dirección técnica de TI y la
 
 | Entidad | Rol & Alcance | Enlace |
 |:--|:--|:--:|
-| 🎭 **IMCT Bucaramanga** | **Webmaster.** Lidero la arquitectura web, la seguridad de la infraestructura y el cumplimiento de la política de Gobierno Digital y Transparencia del portal institucional. | <a href="https://imctbucaramanga.gov.co/" target="_blank"><img src="https://img.shields.io/badge/Ver%20portal-0A66C2?style=flat-square" alt="Ver portal" /></a> |
+| 🎭 **IMCT Bucaramanga** | **Webmaster.** Lidero la arquitectura web, la seguridad de la infraestructura y el cumplimiento de la política de Gobierno Digital y Transparencia del portal institucional. | <a href="https://imct.gov.co/" target="_blank"><img src="https://img.shields.io/badge/Ver%20portal-0A66C2?style=flat-square" alt="Ver portal" /></a> |
 | 🏣 **Contraloría Municipal de Girón** | Portal institucional alineado con la normativa de Transparencia y Gobierno Digital. | <a href="https://giron.gov.co/" target="_blank"><img src="https://img.shields.io/badge/Ver%20portal-0A66C2?style=flat-square" alt="Ver portal" /></a> |
 | 🗳️ **Concejo Municipal de Girón** | Portal a medida, optimizado para la consulta pública y accesible de acuerdos y proyectos. | <a href="https://concejogiron.gov.co/" target="_blank"><img src="https://img.shields.io/badge/Ver%20portal-0A66C2?style=flat-square" alt="Ver portal" /></a> |
 
